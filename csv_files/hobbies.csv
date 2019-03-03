@@ -1,6 +1,8 @@
 question,answer,A,B,C,D
+There are two Red Rangers in Power Rangers: Time Force.,True,,,,
 "If youve ordered a burn one, take it through the garden, pin a rose on it, what can you expect to be placed in front of you?","Hamburger with Lettuce, Tomato and Onion",Hot Dog with Chili and Coleslaw,Lamb Shish - Kabob,"Hamburger with Lettuce, Tomato and Onion",Tuna Melt on Rye with Lettuce and Dill Chips
 "If the girl next to you orders baled hay, life preserver and java for breakfast, what has she ordered?","Shredded wheat, donut and coffee","Cream of wheat , donut and coffee","Hash browns, omelet, and coffee","Buckwheat pancakes, danish, and coffee","Shredded wheat, donut and coffee"
+Noahs Boy refers to a fish sandwich.,False,False,True,,
 "Its your first day on the job at your favorite diner!  The waitress next to you yells out to the short order cook that she needs two cows, make them cry, and paint em red.  What has she requested the short order cook to prepare?","Two hamburgers with onions, cover in ketchup","Two hamburgers with onions, cover in ketchup",Two orders of beef liver and onions with ketchup,Salisbury steak with American sauce.,"Double cheeseburger, no onions, special sauce"
 "Your friends favorite breakfast is a shingle with shimmy and shake, squeeze one.   What does he like to eat for breakfast?",Buttered toast with jam and orange juice,French toast and apple juice,"Link sausage,  toast and juice",Buttered toast with jam and orange juice,Short stack of pancakes and instant coffee
 A guy orders a drag it through Georgia for his son.  What has he ordered?,Cola with chocolate syrup,Fried chicken basket,"Chili dog, all the way",A slice of key lime pie,Cola with chocolate syrup
@@ -33,8 +35,11 @@ Schnapps is a kind of fruit brandy and is typical for the country which gave the
 "Ouzo is the preferred drink in this country. It is produced from pressed grapes, herbs and berries.",Greece,Hungary,Greece,Macedonia,Turkey
 "The first sales of the Coca Cola drink were made at Jacobs Pharmacy in Atlanta, Georgia, in what year?",1886,1886,1798,1900,1800
 "Attorneys Benjamin Thomas and Joseph Whitehead of Chattanooga, Tennessee, bought the exclusive rights to distribute Coke syrup to bottlers across most of the US. How much did they pay to obtain the rights?",$1,$100,$1000,$1,$10
+Coca-Cola used to contain cocaine.,True,False,True,,
+Coca-Cola was originally green.,False,False,True,,
 Why was Coca-Cola once considered an anti-Semitic company?,All of these,Coca-Cola did not have a bottling plant in Israel,All of these,Coca-Cola was successfully doing business in the Middle East,The manager of Coca-Colas Egyptian bottling operations announced  that Coca-Cola would never allow the Israelis a franchise
 "This was the original title of a song, produced by Billy Davis and sung by The New Seekers, and featured in a 1971 TV commercial of Coca Cola.",Id Like to Teach the World to Sing,In Perfect Harmony,Id Like to Teach the World to Sing,Id Like to Buy the World a Coke,None of these
+The acids which the Coca-Cola beverage contains make it harmful to drink.,False,False,True,,
 This zodiac sign is referred to as the youngest one. It is ruled by Mars and is famous as the initiator.,Aries,Sagittarius,Aries,Leo,Taurus
 This sign is ruled by Venus and people born under it are known as peacemakers.,Libra,Pisces,Capricorn,Aquarius,Libra
 This zodiac sign is ruled by the Sun.,Leo,Aquarius,Sagittarius,Leo,Virgo
@@ -89,6 +94,9 @@ In which country does the typical breakfast consist of CaffÃ¨ e latte and a pa
 The title of Kurt Vonneguts book Breakfast of Champions is also the slogan of what famous American breakfast cereal?,Wheaties,Honey Bunches of Oats,Krispies,Wheaties,Cheerios
 The carbonated beverage Fanta is a product of which company?,Coca-Cola Bottling Co.,Royal Crown (RC),Independently owned and operated,Pepsi,Coca-Cola Bottling Co.
 "The special Fanta flavour in Romania, based on a traditional local drink made from elderflower, is called by what name?",Fanta Shokata,Fanta Shokata,Fanta Roma,Fanta Amanta,Fanta Eldera
+"Fanta was named by a German salesman, named Joe Knipp. During a contest for employees, the contestants were told to let their fantasy run wild and Knipp said: Fanta.",True,False,True,,
+The first soft drinks that were sold in all-aluminum cans in 1964 were products of the Royal Crown Cola company.,True,True,False,,
+"In 1985, Shasta  was acquired by the Royal Crown Cola Corp., which also owned the Faygo line of soft drinks.",False,True,False,,
 Which American soft drink company was established by pharmacist Claude A. Hatcher in 1905?,Royal Crown Cola Corp.,Royal Crown Cola Corp.,Tropical Fantasy,National Beverage Corp.,None of these
 What soft drink brand has the same name as a Native American tribe of Northern California?,Shasta,Shasta,Coca-Cola,RC Cola,Pespi
 "This cocktail is prepared from 1 1/2 oz. dark rum, 1/2 oz. each: Orange Curacao and creme de noyaux, lime juice, dash of grenadine. You shake the ingredients with ice and serve in a Hurricane or decorative glass.",Mai Tai,Frozen Daiquiri,Sea Breeze,Southern Sparkler,Mai Tai
@@ -112,6 +120,7 @@ A potato will sometimes have green skin. What is characteristic of this skin?,It
 What type of food is Pancetta?,bacon,sausage,milk,bacon,small pepper
 "Who built the first restaurant from the McDonalds chain, one of the worlds largest chains of fast-food restaurants?",The MacDonald brothers,The MacDonald brothers,The U. S. meatpackers conglomerate,Ray Kroc,Dave Thomas
 Sometimes sushi is served rolled in nori. What is nori?,seaweed,meat,mushroom,rice,seaweed
+Is it true that the word corn may refer to any cereal that is grown in a country?,Yes,Yes,No,,
 The fish taco is generally cooked by what method?,Frying,Broiling,Baking,Poaching,Frying
 Stilton is a cheese which originated in which country?,England,France,The Netherlands,Switzerland,England
 This cocktail is as simple as mixing 1  oz vanilla liqueur and 1/2  fluid ounce cream.,Little Beer,Good Night,Creme De Cocoa,Gimlet,Little Beer
@@ -144,10 +153,13 @@ The seeds of which of these herbs are the key spice in Indian curries?,Coriander
 "Which special type of wormwood, used exclusively for spicing, is one of the four fines herbes of French cooking?",Tarragon,Rocket,Tarragon,Sumac,Mustard
 "This aromatic perennial herb, that is native to Europe, North Africa and Asia, is widely used in many cuisines, especially in the Mediterranean.",Thyme,Poppy,Pepper,Thyme,Paprika
 "Sesame is an annual plant , whose closest relatives originated in which continent?",Africa,South America,Europe,Asia,Africa
+Greyhound is a cocktail which contains Tonic.,False,False,True,,
 This London style porter has the flavor of chocolate and coffee incorporated into the brewing process for a unique tasting adventure.,Blackhook,Blackhook,Bud,Winterhook,Copperhook
 "A Grasshopper is characterized by its soft color and taste, which comes from this strong green liqueur.",Creme de Menthe,Apple Pucker,Creme de Grasshopper,Creme de Menthe,Lime Juice
+"One and a half ounce of 80 proof liquor, straight or with a mixer, 12 ounce beer (a regular size can, bottle, mug, or glass) or a 5 ounce glass of wine all take about 8 hours each for your body to get rid of them.",False,True,False,,
 "There are several renditions of the famed Long Island Iced Tea, but almost all of the recipes call for this carbonated drink.",Cola,Sparkling Water,7-UP,Soda Water,Cola
 Brandy Separators are made with this coffee-flavored liqueur.,Kahlua,Creme de Cacao,Kahlua,Baileys,Frangelico
+The legal drinking age in a few US states is 18.,False,False,True,,
 "This is a traditional Scottish dish, boiled in a sheepâs stomach. Some of the main ingredients are sheepâs pluck, onion, salt and spices.",Haggis,Ratatouille,Haggis,Marmite,Hot Pot
 "This dish is usually cooked in a large, flat pan. It is most typical for the region of Valencia, Spain and contains ingredients such as rice, saffron and olive oil.",Paella,Enchilada,Paella,Lasagna,Tajine
 "Which of these dishes is a traditional Mexican dish, prepared out of a tortilla dipped in a sauce, containing peppers?",Enchilada,Polenta,Enchilada,Baccala,Jambalaya
@@ -180,7 +192,9 @@ This is the recommended beneficial daily dose of wine.,One to two glasses,Five g
 The Framingham Heart Study concluded that moderate drinkers were 50 % less likely to die from coronary diseases than this group of people.,Non drinkers,Heavy drinkers,Drug addicts,Stressed persons,Non drinkers
 "High consumption of saturated fats increases the risk of cardiovascular diseases. Although the residents of the Toulouse region in France consume dishes with plenty of saturated fat, the occurrence of cardiovascular diseases there is comparatively low.  It is because they drink a lot of wine, which helps accelerate the elimination of this from the blood.",Cholesterol,Fat,Free radicals,Oxidants,Cholesterol
 Another research used mice to reveal that red wine can slow down the development of cancer cells and increase life expectancy of rodents. Researchers attribute this to the anti-oxidizing properties of these agents.,Polyphenols,Minerals,Polyphenols,Free radicals,Enzymes
+"If you drink more red wine than the recommended dose, you will increase the benefits.",False,False,True,,
 "This agent, present in the skin of grapes, is one of the most important beneficiary agents in wine.  It has antioxidant, anticoagulant, anti-inflammatory and anti-cancer properties.",Resveratrol,Resveratrol,Caffeine,Flavonoids,Azulene
+The effects of red and white wine on your body are comparable.,True,False,True,,
 It is not the alcohol in wine that causes hangover.  Hangover is actually caused by these.,Impurities,Antioxidants,Polyphenols,Carbides,Impurities
 The words No thing more excellent nor more valuable than wine was ever granted mankind by God belong to this Greek philosopher.,Plato,Heraclitus,Homer,Plato,Socrates
 "It is generally accepted that whiskey has been made in Ireland since Irish monks brought the distillation process from the Middle East. In Gaelic, the drink was known as Uisge Beatha, which means what in English?",Water of life,Spirit of life,Water of the gods,Water from heaven,Water of life
@@ -221,14 +235,24 @@ This green vegetable is number one on the list of foods that contain agents prev
 "One of the characters in this 2000 movie, Vianne, opens a chocolaterie in a small, old-fashioned French village and sells confections, which inspire the conservative inhabitants of the village and revive their passions.  Name the movie.",Chocolat,Charlie and the Chocolate Factory,Like Water for Chocolate,Chocolat,Consuming Passions
 "A lilac colored cow is the symbol of this brand of chocolate, a best-seller for Kraft Foods, created in 1901 in NeuchÃ¢tel, Switzerland by chocolatier Philippe Suchard.",Milka,Nestle,Milka,Svoge,Lindt
 "Which of these types of chocolate is based on cocoa butter, but does not contain cocoa solids?",White chocolate,Dark chocolate,White chocolate,Semi-sweet chocolate,Milk chocolate
+Ganache is a fancy word for an apron.,False,True,False,,
 Pommes de terre is a French term literally translated as apples of the earth.  In English the term refers to which of the following?,potatoes,potatoes,tomatoes,apples,beets
 Modern cakes were first baked in Europe around the mid-17th century. They were not frosted. Why did they start frosting cakes?,To better preserve the cake since there was no modern refrigeration available,As a status symbol - because sugar was very expensive only the rich could afford a frosted cake,To add flavor since the cakes were more like breads or biscuits,To impress the King since one needed the Kings permission to open a bakery,To better preserve the cake since there was no modern refrigeration available
+To decant means to pour wine (or other liquid) from one container to another.,True,False,True,,
+Tea is made by a process called infusing.,True,True,False,,
 What does the word epicure mean?,a gourmet with extensive knowledge of food and wine,a person who critiques restaurants,a person who oversees all operations in a restaurant,a person who works in the wine industry,a gourmet with extensive knowledge of food and wine
+A marmite is a large circular sieve made with bamboo and mesh.,False,True,False,,
+Farfalle is a French word meaning butterfly.,False,False,True,,
+Chefs James Beard and Julia Child were lifelong friends.,True,True,False,,
 One of Wolfgang Pucks food handlers tested positive for Hepatitis A. What was the event Puck was catering that possibly exposed hundreds of people to Hepatitis.,Sports Illustrated annual swimsuit issue party,Academy Awards,Playboys Playmate of the Year celebration,The Tony Awards,Sports Illustrated annual swimsuit issue party
 How many calories does whole milk contain per serving of 8 fluid ounces?,150,102,150,98,180
+Sweetened condensed whole milk is canned milk concentrate with molasses added to it.,False,False,True,,
 How many glasses of milk is recommended for people 50+ each day?,3-4,2-3,0-1,1-2,3-4
+Freezing does not change the structure of milk.,False,True,False,,
 Which term refers to the process of dispersing milk fat throughout the milk?,Homogenization,Homogenization,Pasteurization,Fortification,Ultrapasteurization
+Generally milk stays fresh for up to a week after the sell by or pull date.,False,True,False,,
 What percentage of water is removed from milk to make evaporated milk?,60%,40%,70%,60%,50%
+Milk should not be exposed to strong light.,True,True,False,,
 How many calories does 1 serving (8 fl. oz.) of skim milk contain?,80,50,80,70,100
 "According to the Bureau of Justice statistics, graffiti is the most common form of this.",Vandalism,Pollution,Art,Street exhibition,Vandalism
 Researches have found that most graffiti artists fall into this demographic category.,Males of age 12 to 21,Females of age 25 to 35,Males of age 12 to 21,Females of age 12 to 21,Males of age 25 to 35
@@ -245,16 +269,20 @@ This is what most graffiti artists prefer to be called.,Writers,Sprayers,Artists
 What was the original mascot for the Cookie Crisp cereal?,a wizard,a bear,a wizard,a masked man,an animated cookie
 Complete the advertising slogan of a peanut butter brand: âChoosy mothers choose ______,Jif,Peter Pan,Jif,Planters,Skippy
 "Who was the creator of the âPeanutsâ cartoon, that featured characters like Lucy, Linus, Snoopy and Charlie Brown?",Charles Schulz,Charles Addams,Charles Schulz,Dr. Suess,Matt Groening
+"Peanuts are not considered to be nuts. They are legumes, and belong to the same class as peas and beans.",True,True,False,,
 This botanist taught former slaves farming techniques for self-sufficiency and is known for suggesting hundreds of uses for the peanut.,George Washington Carver,Eli Whitney,Harriet Beecher Stowe,George Washington Carver,Abe Lincoln
 What US President was a peanut farmer from the south?,Jimmy Carter,Jimmy Carter,John Quincy Adams,Abe Lincoln,George W Bush
+Art Paul Schlosser wrote a song about peanut butter called Have A Peanut Butter Sandwich.,True,False,True,,
 "This peanut related sandwich, common in the USA and Canada, is often served with a glass of milk.",Peanut butter and jelly,Peanut butter and jelly,Peanut butter and tuna fish,Grilled cheese and peanuts,Peanut sauce and broccoli
 "This snack food company, founded in 1906, is famous for its peanuts and the Mr. Peanut icon.",Planters,Skippy,Diamond Foods,Planters,Con-Agra Foods
 Who was the inventor of the Malian peanut sheller?,Jock Brandis,Thomas Edison,George Washington Carver,Ben Franklin,Jock Brandis
 "Elvis Presley, who was keen on Peanut Butter and Banana sandwiches, passed away in what year?",1977,1979,1977,1976,1978
 "This world-famous manufacturer of athletic shoes has its origins in a company called Blue Ribbon Sports, founded by Phil Knight and his track coach, Bill Bowerman.",Nike,Nike,Adidas,K-Swiss,Reebok
 "The fabric hook-and-loop fasteners with the brand name, Velcro, were invented by Swiss engineer Georges de Mestral in what year?",1948,1969,1948,1960,1965
+"In L. Frank Baums story, The Wonderful Wizard of OZ, the Good Witch of the North comes with the Munchkins to greet Dorothy, and gives her ruby slippers.",False,True,False,,
 "High-heeled shoes were first invented by men around 1500s AD, with this purpose in mind.",To keep feet from slipping out of stirrups while riding,To be used as a weapon,To look taller than women,To keep feet from slipping out of stirrups while riding,To keep feet high and dry from horse manure
 "The song, Blue Suede Shoes, which is generally associated with Elvis Presley, had a massive chart success in the 1950s. Who wrote the song?",Carl Perkins,Johnny Cash,Carl Perkins,Buddy Holly,Barbara Pittman
+"A clog is a type of shoe, made predominantly out of leather, associated with the Netherlands.",False,False,True,,
 The popular board game Monopoly is named after the economic term of the same name which refers to what market structure?,The domination of the market by a single entity,The domination of the market by a single entity,The homogenous nature of the market,The division of the market between single (mono-) owners and joint (-poly) cooperations,The politics of a government to encourage private property
 The board game Monopoly was initially created not only for entertaining purposes but also to demonstrate this aspect of the market.,The negatives of concentrating land in private-owned properties,The number of opportunities private-owned properties gave people,The negatives of concentrating land in private-owned properties,The advantages of the transition from state-owned to private-owned property,The rapid shift of property in developing markets
 During World War 2 the game Monopoly was used by the British Secret Services for this very practical and clever purpose.,"To secretly provide prisoners of war held by the Nazis with useful objects â maps, compasses, real money, etc.",To draw away the attention of Nazi soldiers,To code secret information about key German targets and send it to GB disguised as a Monopoly game,None of these,"To secretly provide prisoners of war held by the Nazis with useful objects â maps, compasses, real money, etc."
@@ -275,6 +303,7 @@ She was the fist celebrity to join the Barbie family.,Twiggy,Twiggy,Cindy Crawfo
 The number of countries that sell  Barbie dolls.,140,50,140,400,230
 "The idea about Barbie came to her creator Ruth Handler, when she saw an adult looking doll called this.",Lilli,Lilli,Henrieta,Margaretta,Gretta
 "On February 12, 2004 Barbie and Ken did this.",Broke up,Had their first child,Got married,Committed suicide,Broke up
+Parts of the plant Helianthus annuus are edible.,True,False,True,,
 "Asteraceae is a flower, commonly known as this.",All of the these,Daisy,Black Eyed Susan,All of the these,Aster
 Which of these wild roses is native to China?,Rosa laevigata,Rosa laevigata,Rosa eglanteria,Rosa canina,Rosa gigantea
 "Dianthus caryophyllus, or carnation,  was originally grown in which colour?",Pink,Green,Yellow,White,Pink
@@ -327,10 +356,13 @@ This American fashion designer is widely recognized as the creator of the Americ
 The trilby is an item which belongs to what clothing group?,Hats,Dresses,Hats,Shoes,Pants
 "In the 1920s, this fashion designer popularized the little black dress - a short  evening or cocktail dress.",Coco Chanel,Christian Dior,Charles Frederick Worth,Vivienne Westwood,Coco Chanel
 What famous person made the following observation about fashion: Fashion wears out more apparel than the man?,Shakespeare,Chanel,Saint Laurent,Shakespeare,Lagerfeld
+The first hotdog stand in New York was opened in 1867.,True,True,False,,
 What year were the first frozen pizzas introduced in grocery stores?,1957,1957,1956,1950,1951
+George Crum invented potato chips.,True,False,True,,
 Where was the first wrapped candy bar sold?,Canada,Canada,Georgia,New York,Pennsylvania
 Where did popcorn originate?,Mexico,Mexico,New York,Chicago,Columbia
 Which company created the worlds largest doughnut in 1998?,Winchells House of Doughnuts,Dunkin Doughnuts,Grannys Doughnuts,Krispy Kreme,Winchells House of Doughnuts
+Lionel Sterberger grilled the first cheeseburger in 1945.,False,False,True,,
 In what year did William Kolb invent the first red candy apple?,1908,1908,1914,1910,1921
 What candy bar was used in the 1985 movie The Goonies?,babyruth,babyruth,twix,milkyway,snickers
 What do you call an Austrian dessert that is a sweet almond paste dipped in chocolate?,Marzipan,Apfelstrudel,HeiÃe Schokolade,Sachertorte,Marzipan
@@ -343,13 +375,20 @@ Risotto is made with special kinds of rice and is traditionally served with fish
 What are the ingredients of  the cold Spanish soup Gazpacho?,"Stale bread, garlic, olive oil, salt, tomato and vinegar","Beans, onions, tomatoes, spearmint and carrots","Stale bread, garlic, olive oil, salt, tomato and vinegar","Beef, onions, red peppers, and paprika powder","PurÃ©ed leeks, onions, potatoes, cream and chicken stock"
 Where did the modern-day restaurant come from?,France,France,England,Italy,Germany
 What is the executive chef of the kitchen called?,Chef de Cuisine,SautÃ© Chef,Chef de Cuisine,Chef de Partie,Sous Chef
+One of the possible origins of the popular expression rule of thumb  is believed to be connected to the process of brewing beer.,True,True,False,,
 "John Wagner, the first American to produce lager beer, had a brewery in which state?",Pennsylvania,New Jersey,Pennsylvania,New York,Maine
 "The term cenosillicaphobia, related to drinking beer and alcohol as a whole, means what?",A fear of an empty glass,A fear of a falling glass,A fear of an empty glass,A fear of a broken glass,A fear of breaking a glass
+The oldest known recipe for a beverage still in existence is a recipe for beer.,True,True,False,,
 "Samuel Adams Triple Bock, produced by the Boston Beer Company, reaches what percentage of alcohol by volume?",17%,12%,9%,23%,17%
 The national epic poem of which country includes an early ode to beer in Verse XX: Sing the songs of beer immortal!?,Finland,Finland,Denmark,Sweden,Germany
+"Charles Dickens made the following statement about beer: It was as natural as eating and to me as necessary, and I would not have thought of eating a meal without drinking beer.",False,False,True,,
+Literally translated Feng Shui means wind and water.,True,True,False,,
 One of the major purposes of Feng Shui is the search for the universal abstract energy or life force that governs our world. It is called this.,Chi,Yi,Chi,Ru Li,Fu
+Wind is one of the five elements.,False,False,True,,
 The cycle FIRE - EARTH - METAL - WATER - WOOD - FIRE is known as this.,Cycle of production,Cycle of production,Cycle of reduction,Cycle of neutralization,Cycle of destruction
+Is irregularly shaped land good to build your home on?,No,Yes,No,,
 According to Feng Shui water symbolizes one of these.,Prosperity,Intelligence,Prosperity,Health,Posterity
+The master bedroom should be as far away from the front door as possible.,True,True,False,,
 According to Feng Shui the toilet should be this.,Hidden.,It does not matter where the toiler is.,Attached to the bedroom.,Hidden.,Always open.
 Where were the oldest ears of popcorn found in 1948?,"Bat Cave, New Mexico","Mammoth, Kentucky","Crystal Cave, California","Wyandotte Cave, Indiana","Bat Cave, New Mexico"
 "During World War II, Americans increased their popcorn consumption three times, because this product was not as widely available as it had been prior to the war.",Sugar,Potatoes,Nuts,Nachos,Sugar
@@ -394,15 +433,24 @@ Which of these is not a term used for the building in which maple syrup is boile
 Canada is by far the worlds largest maple syrup producer. Approximately what part of the worlds maple syrup is produced in Canada?,80%,80%,65%,95%,70%
 Sugar on snow is a popular New England treat. It is boiled maple syrup cooled in snow and placed on sticks. Which food item is not traditionally served with this candy?,Shortbread cookies,Yeast risen Donuts,Coffee,Shortbread cookies,Sour Dill Pickle
 The production of maple syrup traditionally starts in what month?,February,February,July,October,September
+It takes 40 litres (10 gallons) of maple sap to make 2 litres (a half gallon) of maple syrup.,False,False,True,,
 How old must a tree be before it can be tapped for maple syrup production?,40 years old,30 years old,10 years old,40 years old,20 years old
+During the years of the Civil War molasses was made using maple syrup because it did not require slave labor.,True,True,False,,
 Which state produces the most maple syrup in New England?,Vermont,Maine,Vermont,Massachusetts,New Hampshire
 Approximately how many commercial maple syrup producers are there in North America?,"16,000","5,000","16,000","12,000","20,000"
+India Pale Ale was originally made in India.,False,False,True,,
 What is the name of the oldest brewery in the USA that is still operating?,Yuengling,Brooklyn Brewery,Sierra Nevada Brewery,Boston Beer Company,Yuengling
 "In mediaeval England, what was an ale-connor?",A beer-tester,An unscrupulous merchant who sold muddy water flavoured with hops,A wooden ale mug,Ale seller,A beer-tester
+The worlds strongest lager is named after Santa Claus.,True,False,True,,
+Bread is one of the oldest prepared foods.,True,False,True,,
 What happened to the first prototype of the bread-slicing machine?,It was destroyed in a fire.,It was destroyed by its inventor.,"It was stolen by the people of Battle Creek, Michigan.",It was destroyed in a fire.,It was destroyed by vandals.
+"The bread-slicing machine was first commercially used by the Chillicothe Baking Company of Chillicothe, Missouri.",True,False,True,,
 When was the first loaf of sliced bread sold?,"July 7, 1928","March 29, 1925","June 17, 1921","September 21, 1916","July 7, 1928"
+Gustav Papendick bought the second bread-slicer.,True,False,True,,
 Who prompted the marketing of sliced bread in 1928?,W.E. Long,Gustav Papendick,Otto Rohwedder,Herbert Dinklebrot,W.E. Long
 When was Wonder Bread  first marketed in the USA as pre-sliced bread?,1930,1934,1926,1925,1930
+Americas entry into World War Two led to a ban on sliced bread starting in August 1943.,False,False,True,,
+The phase Greatest thing since sliced bread derived from a Wonder Bread advertising campaign.,True,False,True,,
 "First corn is usually attacked by a parasitic fungal infestation. The kernels swell to as much as 9 times normal size, and then darken. They are collected, canned, and sold to the public as a delicacy. Which one of these is NOT a name for this food?",Balut,Mexican truffles,Balut,Corn shrooms,Huitlacoche
 Which of these is not the equivalent of what Americans often call head cheese?,Kumiss,Brawn,Brabant,Sylta,Kumiss
 "This is an Italian delicacy consisting of raw beef, tuna or veal that has been pounded and cut into very thin slices. It is served with a mustard sauce and is usually placed on a bed of arugula and green with an olive oil/lemon juice dressing.",Carpaccio,Retsina,Cibreo,Capi,Carpaccio
@@ -412,14 +460,25 @@ Which of these descriptions best describes the Scottish product Irn -Bru?,An ora
 Which of these is the name of a Danish delicacy?,Yule Brod,Retsina,Yule Brod,Marmite,Schmaltz
 "This food was not on the Sopranos, but is a Taiwanese dish.",Bao Bing,FuFu,Cibreo,Ngapi-jaw,Bao Bing
 Which of these is a traditional Japanese breakfast dish?,Natto,Kapi,No Ko Bashi,Natto,Kimchee
+The optimal position for a knight is the edge of the chess board.,False,False,True,,
+"In chess, the king should be used aggressively in the endgame.",True,True,False,,
+A rook is worth more than a bishop.,True,False,True,,
+The winner of a chess game is usually the player who made the penultimate mistake.,True,True,False,,
 Which of the following is an example of underpromotion in chess?,Converting your pawn into a knight,Giving your opponent knight odds,Telling your opponent you are a duffer when you are really an expert,Taking your opponents pawn with your knight instead of your queen,Converting your pawn into a knight
 What does the chess term zugzwang mean?,Being unable to move without making your position worse than it already is,Moving very quickly,Running out of time,Being almost out of time on your clock,Being unable to move without making your position worse than it already is
 What is a combination in chess?,A sequence of moves leading to an advantage,A sequence of moves leading to zugzwang,A sequence of moves leading to an advantage,A sequence of moves leading to checkmate,A sequence of moves involving a sacrifice
+The loss of a single pawn is not enough to lose a chess game.,False,False,True,,
 Which of the following is usually a disadvantage in chess?,An isolated pawn,A castled king in the opening,A passed pawn,An isolated pawn,A centralized king in the ending
+In chess a backwards move is almost always a bad move.,False,True,False,,
+"As well as oranges, carrots come in white and pink varieties.",True,False,True,,
 What is the scientific (Latin) name of the wild carrot?,Daucus carota,Neee wassupdoc,Noctus viseus,Carota carota,Daucus carota
+"Carrot tops are poisonous to humans, even in small quantities.",False,True,False,,
 Which vitamin is the orange pigment beta-carotene converted to by the human body?,Vitamin A,Vitamin C,Vitamin A,Vitamin B12,Vitamin E
+Eating carrots can improve a persons night vision.,False,False,True,,
 The carrot is thought to have originated from this country.,Afghanistan,India,Afghanistan,China,Brazil
+Parsley is a close relative of the carrot,True,False,True,,
 Which US state hosts a carrot festival in the town that calls itself Carrot Capital of the World?,California,Texas,Florida,California,Utah
+The carrot was outlawed in Holland in the 16th century.,False,False,True,,
 Which country had the highest production of carrots in 2005?,China,Egypt,China,Russia,USA
 Which of the following is not a grape variety used for producing Champagne?,Cabernet Franc,Pinot Meunier,White Chardonnay,Red Pinot Noir,Cabernet Franc
 Which of these remarks about Champagne was made by Sir Winston Churchill in 1918?,"Remember gentlemen, itâs not just France we are fighting for, itâs Champagne!","Gentlemen, in the little moment that remains to us between the crisis and the catastrophe, we may as well drink a glass of champagne.","Remember gentlemen, itâs not just France we are fighting for, itâs Champagne!","In victory, you deserve Champagne, in defeat, you need it.",Some people wanted Champagne and caviar when they should have had beer and hot dogs.
@@ -432,14 +491,24 @@ Which of these words is not a term referring to sparkling wine?,All of these ref
 "Which of these cocktails includes the following ingredients: Champagne, cognac, raspberry liqueur, lemon juice and fresh raspberries?",Rose of the Ritz,Gimlet,Marilyn Monroe,Manhattan,Rose of the Ritz
 Which process involves rotating of champagne bottles and gradually moving them to a neck-down orientation?,riddling,none of these,riddling,secondary fermentation,disgorging
 When was Pepsi first made?,1890,1780,1870,1890,1980
+Is it true that root beer comes in two forms: alcoholic and soft drink?,Yes,Yes,No,,
+In the mid 1980s Dr. Pepper became exclusively a product of the Coca Cola Company.,False,True,False,,
 What year was Coca-Cola developed?,1886,1920,1886,1870,1790
+Sprite was originally made in Germany.,True,True,False,,
+"Mountain Dew was invented in Marion, Virginia and first marketed in Knoxville, Tennessee.",False,True,False,,
 During what war was Fanta developed?,WW II,WW II,none of these,The Civil War,WW I
 What year was 7 Up first marketed as 100% Natural?,2006,2006,2003,2005,2004
+AW Root Beer  inspired a restaurant chain.,True,True,False,,
 What was the first major North American root beer to contain caffeine?,Barqs,Barqs,Triple XXX,A-Treat,Frostie Root Beer
+German Sweet Chocolate is so named because it was created in Germany.,False,False,True,,
 Who is the author of the childrens book Charlie and the Chocolate Factory that revolves around a boy named Charlie Bucket?,Roald Dahl,A. A. Milne,J. M. Barrie,Roald Dahl,Lewis Carroll
 Who is said to have carried chocolate with him on military campaigns?,Napoleon,Caesar,Napoleon,George Patton,Alexander the Great
+Chocolate causes acne.,False,True,False,,
 The mixture of hot cream and melted chocolate is called ganache. What does the French word ganache literally mean in English?,fool,flower,chocolate,cream,fool
 This delectable chocolate dessert is named after fungi rooted out of the ground by pigs.,Truffles,Nugget,Truffles,Eclairs,Mushrooms
+Chocolate is low in caffeine.,True,True,False,,
+Chocolate syrup was used as fake blood in the famous shower scene in the 1960 movie Psycho.,True,False,True,,
+Does white chocolate contain cocoa solids?,No,No,Yes,,
 "Which Peanuts cartoon character said, All I really need is love, but a little chocolate now and then doesnt hurt!?",Lucy,Charlie Brown,Linus,Lucy,Sally
 Absinthe was most popular in this country as it was the common beverage among artists and writers in the late 19th and early 20th centuries.,France,Germany,Italy,England,France
 The alcohol content is very high in absinthe. It can be as high as this %.,85 %,85 %,75 %,65 %,95 %
@@ -453,15 +522,19 @@ The Absinthe Drinker and Woman Drinking Absinthe are paintings that immortalise 
 This is what they call a straight shot of absinthe served over a cube of sugar.,Van Gogh Crazy,Traditional,Short,Neat,Van Gogh Crazy
 The popular casino game Blackjack is known under several different names. Which of the following is NOT one of them?,Crazy Eights,Twenty-One,Crazy Eights,Vingt-et-un,Pontoon
 The first written reference of Blackjack can be found in a short story by this world-famous author.,Miguel de Cervantes,Hans Christian Anderson,Mark Twain,Victor Hugo,Miguel de Cervantes
+"In Blackjack, it is crucial for the player not to let neither the dealer nor the other players see his/her cards.",False,False,True,,
 What card combination is called âSoft 17â in Blackjack?,An ace valued 11 plus 6 more points from other cards,Two aces,An ace plus a jack,An ace valued 11 plus 6 more points from other cards,An ace valued 1 plus 16 more points from other cards
 In Blackjack how is it accepted for a player holding the cards in his/her hand to give a sign to the dealer he/she wants to stand (stay)?,By sliding the cards under the bet,By scraping the cards against the table,By sliding the cards under the bet,None of these,By placing additional chips next to the bet
 "When the player âsurrendersâ in Blackjack, what part of his/her bet does he/she lose?",One half,One fifth,One half,The whole bet,Two thirds
+In casinos where Blackjack dealers must hit on soft 17 the game is substantially more favorable for the player than in casinos where dealers must stand on soft 17.,False,False,True,,
 What is the popular set of optimal rules for playing Blackjack called?,Basic strategy,Golden rules strategy,Best strategy,Basic strategy,Push strategy
 If you see the characters âS17â printed on a Blackjack table what valuable information do you get about the rules of the game in this casino?,The dealer stands on soft 17s,Soft 17s are considered eights by the dealer,The dealer surrenders on soft 17s,The dealer doubles on soft 17s,The dealer stands on soft 17s
 "In the casino version of Blackjack, what is a âshoeâ?",The container from which cards are dealt,The edge of the playing table,The container from which cards are dealt,The container where the player puts the cards he/she receives,The shape of the playing table
+In most U.S. casinos counting the cards even mentally is illegal.,False,False,True,,
 Which of the following versions of Blackjack is most favorable to the player?,Single deck game,Two-deck game,Eight-deck game,Four-deck game,Single deck game
 In Blackjack what card combination is called Blackjack?,An ace and a card with value 10,Any card combination with total value of 21,An ace and a card with value 10,An ace and a jack,Two aces
 "If you play Blackjack with handheld cards in a casino, with which one of these non-verbal signs can you tell the dealer you want to âhitâ (have one more card)?",Scrape the cards against the table,Scrape the cards against the table,Slide the cards under the bet,Place additional chips on the top of the original bet,Place additional chips next to the original bet
+"When playing Blackjack in a casino, there are two proper ways to announce your decision after youâve received a card â either say it aloud or use some of the commonly accepted non-verbal signs.",False,True,False,,
 When is the so-called insurance offered to the player in Blackjack?,When the dealers exposed card is an ace,When the dealers exposed card is an ace,When the player has reached 20,When the dealers exposed card is 10-valued,When the player has reached 18
 The composition-dependant strategy works best in this kind of Blackjack game.,Single-deck,None of these,Single-deck,Eight-deck,Two-deck
 In which U.S. city is the Blackjack Hall of Fame located?,San Diego,San Diego,New York,Los Angeles,Las Vegas
@@ -483,11 +556,20 @@ What is LattÃ©?,Espresso plus aerated milk,Coffee plus aerated milk,Coffee plu
 In which part of the world was coffee first prepared as a beverage?,Ethiopia,China,Peru,Colombia,Ethiopia
 Which of these countries exports the most coffee per year?,Brazil,Colombia,Brazil,Viet Nam,Ethiopia
 The consumption of coffee is forbidden by which one of the following religions?,The Church of Jesus Christ of Latter-day Saints,Islam,Ethiopian Orthodox Christianity,The Sufi Branch of Islam,The Church of Jesus Christ of Latter-day Saints
+Most medical authorities believe that coffee consumption is harmful to the health.,False,True,False,,
+Decaffeinated coffee contains no caffeine.,False,False,True,,
+A single shot (1 ounce) of espresso contains more caffeine than a 7-ounce cup of drip coffee.,False,False,True,,
+Abrupt cessation of coffee consumption can cause caffeine-withdrawal headaches.,True,True,False,,
 "Which sizes are for those who are 5 2 - 5 3 tall, with a lower bust and a shorter back?",Half sizes,Miss Petite,Half sizes,Junior Petite,Misses sizes
 "Which sizes are for those 5 4 - 5 5 tall, who have a higher bust and a shorter back?",Junior,Miss Petite,Junior Petite,Junior,Young Junior
 "Which dress sizes are for those 5 2 - 5 3 tall, with an average bust but a shorter back?",Miss Petite sizes,Womens sizes,Half sizes,Miss Petite sizes,Misses sizes
 "Which dress sizes are for those who are 5 1 tall, with an average bust but a shorter back?",Junior Petite,Miss Petite,Junior,Junior Petite,Young Junior
 What does short-waisted mean?,It means your torso is short.,It means your waist is shorter than your head.,It means your shorts need replacing.,It means your waist is not very high above the ground.,It means your torso is short.
+Odd-numbered dress sizes are usually for younger women.,True,False,True,,
+Petite sizes are for women who are under 5 1.,False,False,True,,
+Half-sizes are for short-waisted women.,True,False,True,,
+Misses sizes are cut more generously in the bust and hips than junior sizes.,True,True,False,,
+Plus sizes are for heavier women.,True,True,False,,
 "This is the largest mall in the world, as of 2007.",The South China Mall,The Bejing Mall,The South China Mall,The West Edmonton Mall,The Raja Mall at Mombai
 This is considered to have been the first mall.,Isfahan Grand Bazaar,The Grand Shoppes at  Kent,The Magnificante at Toledo,Isfahan Grand Bazaar,Tashkent Roayl Bazaar
 This is the largest mall in the North American continent.,The West Edmonston Mall,The Mall at 4,The  Bergen Mall,The Center,The West Edmonston Mall
@@ -530,10 +612,14 @@ The Larb meat salad belongs to the cuisine of what Asian country?,Laos,Laos,Camb
 What does the name of the Chinese salad Yusheng mean?,Raw fish,Sweet salad,Slimy shrimp,Raw fish,Sour salad
 "All other things being equal, which 3-card meld is more likely to be increased to a 4-card meld in the game gin rummy?",Eight Nine Ten of Diamonds,Jack Queen King of Hearts,Eight Nine Ten of Diamonds,Three Kings,Ace Two Three of Spades
 In the gin rummy game which of the following is a triangle?,"7 of hearts, 8 of hearts, 7 of spades","7 of hearts, 8 of clubs, 7 of spades","7 of hearts, 8 of hearts, 6 of hearts","7 of hearts, 8 of hearts, 7 of spades","7 of hearts, 8 of clubs, 8 of diamonds"
+"In the card game gin rummy, it is sometimes necessary to break a meld in order to keep your opponent from winning the hand.",True,True,False,,
+The best gin rummy players remember every card played.,True,False,True,,
 There are several variations of gin rummy commonly played. Which of the following is INCORRECT?,In conventional Gin Rummy a Queen-King-Ace meld is worth more than a 4-5-6 meld.,"In Knock Rummy, all face cards are worth 10, and all other cards are worth their face value.",In Oklahoma Gin the first up card determines the maximum knock value.,In Knock Rummy you can go out even though not all of your cards are used in melds.,In conventional Gin Rummy a Queen-King-Ace meld is worth more than a 4-5-6 meld.
+"In the gin rummy game you should never pick up a speculative discard. That is, you should never pick up a discard without using it in a meld.",False,True,False,,
 "In knock rummy, deciding whether to knock or go for gin can be difficult. Which of the following is INCORRECT?","If you have reason to believe that your opponents unused cards are low cards, you should probably knock if you can.",Sometimes it makes sense to knock even if theres a strong possibility that your opponent will undercut you.,"If you wait for gin and your opponent knocks, you might be able to undercut her.","If you have reason to believe that your opponents unused cards are low cards, you should probably knock if you can.","If its early in the hand and you can knock, you probably should do so."
 "If my opponent in gin rummy has picked up the 8 of diamonds, and I know nothing else about my opponents hand, which of the following cards should I discard?",7 of spades,8 of spades,7 of spades,9 of diamonds,10 of diamonds
 "If your opponent in the game gin rummy picked up the jack of spades and discarded the queen of spades, what could you conclude?",She probably is collecting jacks.,She probably is collecting jacks.,She is about to gin.,She doesnt know how to play gin.,She most certainly is collecting jacks.
+"All other things being equal, if you had a triangle, a 3-card meld and a 4-card meld, and drew a card which could expand the 3-card meld into a 4-card meld, you should expand the meld and discard one card of the triangle.",False,True,False,,
 What is the other common name of the punk Mohawk hairstyle?,Mohican,Pompadour,Mop-Top,Mohican,All of these
 "What hairstyle combines the 1950s pompadour, the 50s flattop, and sometimes a mohawk?",Quiff,Quiff,Shag,Induction cut,High and tight
 "In which of these hairstyles the sides and back of the hair are kept short, while the front is kept long and combed forward?",Devilock,Hi-top fade,Ducktail,Devilock,Bangs
@@ -562,10 +648,12 @@ In 1994 Calgene introduced this genetically modified tomato cultivar which could
 "According to some studies, lycopene, which is found in tomatoes, prevents this disease.",Cancer,Diabetes,Thrombosis,Cancer,Heart attack
 Tomato juice is the official beverage of this state in the USA.,Ohio,Colorado,Ohio,Texas,California
 In what country is the popular tomato festival called La Tomatina celebrated annually?,Spain,Chile,Mexico,Ecuador,Spain
+Tomatoes can be refrigerated and they will continue to ripen after they reach room temperature.,False,True,False,,
 "What part of the tomato plant does not contain Solanine, a poison toxic to humans and animals?",Ripe fruit,All of these,Leaves,Unripe fruit,Ripe fruit
 What are the only insects that are allowed to be consumed according to Jewish dietary laws?,Locusts,Crickets,Cockroaches,Locusts,Ants
 It is considered that the consumption of these animals transmitted a predecessor of HIV to humans.,Primates,Primates,Birds of prey,Rats,Wild animals
 Members of the Special Air Service of the British Army are forbidden to eat only this type of meat.,Rat,Eagle,Rat,Snake,Pigeon
+"According to the Chinese Zodiac, the year of the cat occurred in 2000.",False,False,True,,
 "According to a legend, when Confucius died, twelve animals rushed to his bedside. The order of the Chinese Horoscope is the order in which they arrived. What was the first animal to arrive at Confucius bedside?",the rat,the horse,the rat,the dragon,the tiger
 "If you were born in 1978, 1990 or 2002, what would your lunar sign be?",horse,snake,sheep,rat,horse
 "If you were born in 1980, 1992 or 2004, what would your lunar sign be?",monkey,ox,dog,ram,monkey
@@ -575,6 +663,7 @@ Members of the Special Air Service of the British Army are forbidden to eat only
 "If you were born in 1981, 1993 or 2005, what would your lunar sign be?",rooster,rooster,rabbit,monkey,dragon
 "If you were born in 1982, 1994 or 2006, what would your lunar sign be?",dog,dog,rabbit,snake,ram
 "If you were born in the year 1976, 1988 or 2000, what would your lunar sign be?",dragon,horse,snake,rabbit,dragon
+"If you were born in 1972, with the current year being 2008, the next time your year in the Chinese Zodiac will come around, is 2020.",True,False,True,,
 "What two positive adjectives best describe the snake, the 6th animal in the Chinese Zodiac?","wise, graceful","frugal, passionate","wise, graceful","determined, vigorous","sly, powerful"
 "Malt, one of the main ingredients of beer, undergoes a process in which the grain kernels are crushed and later the smaller pieces are separated from the husk. What is the name of the resulting product?",grist,zymurgy,vermiculite,grist,wort
 "This kind of beer, produced from wild yeast through a process called spontaneous fermentation, has a distinctive, cidery flavour with slightly sour aftertaste.",lambic beer,cantillon beer,boon beer,lambic beer,chapeau beer
@@ -648,7 +737,9 @@ How many players typically play a hand of classic Mahjong?,4,4,8,6,3
 "In Mahjong, a pong is a set of how many identical tiles?",3,2,6,4,3
 "In Mahjong, a kong is a set of how many identical tiles?",4,2,6,3,4
 What is a chow in the game of Mahjong?,a meld of three suited tiles in sequence,a meld of four suited tiles in sequence,a meld of three suited tiles in sequence,a meld of two suited tiles in sequence,a meld of six suited tiles in sequence
+"In Mahjong, the dealer is East, with the other players assuming the corresponding direction. If the dealer wins the round, the dealer remains East.",True,False,True,,
 What are the three suits of Mahjong?,"stones, bamboos, characters","bamboos, winds, characters","dragons, winds, characters","stones, bamboos, characters","dragons, stones, bamboos"
+Flower tiles are not necessary to win a hand in a classic Mahjong game.,True,False,True,,
 "In the game of Mahjong, these red, white and green tiles are considered honor tiles, and are worth more as pongs and kongs than suit tile pongs and kongs.",Dragons,Flowers,Dragons,Winds,Birds
 "In the 13-tile variation of Mahjong, which of the following is a possible winning hand?",4 pongs and a pair of identical tiles,4 pongs and a pair of identical tiles,2 kongs and a pair of identical tiles,3 pongs and a chow,4 kongs and a chow
 Which of these Western games is most similar to Mahjong?,Rummy,Bridge,Rummy,Dominoes,Risk
@@ -685,8 +776,10 @@ What period marked the popularity of the cloche hat?,1920s,1970s,18th century,15
 Genetic tests of all known potato species show that this country was the place they originally came from.,Peru,Colombia,Paraguay,Peru,Ecuador
 Potatoes are being called various names around the globe. Which of these names refers to potatoes?,All of these,All of these,Tatoes,Praties,Taters
 What is the average height a potato plant can reach?,60 centimeters,40 centimeters,20 centimeters,80 centimeter,60 centimeters
+A human being can live entirely on a diet consisting only of potatoes and milk.,True,False,True,,
 In what part of the potato is most of its protein located?,Just under the skin,It is evenly distributed.,Just under the skin,In the skin,In its center
 Potatoes contain large amounts of carbohydrates. What is the approximate quantity of carbohydrates in a medium-size potato (about 150 grams)?,25 grams,100 grams,75 grams,25 grams,50 grams
+Potatoes contain toxic chemicals that are also found in tobacco and tomatoes.,True,True,False,,
 What year was declared the International Year of the Potato by the United Nations?,2008,2004,2008,2001,2006
 Potatoes are used in millions of cooking recipes around the globe. Which of these dishes contains potatoes?,All of these,All of these,Chochoca,Milcaos,Champ
 "Who is credited with the invention of the potato chip on August 24, 1853?",George Crum,Rodger Alvarez,George Crum,Peter Queen,Abraham Smith
@@ -743,6 +836,7 @@ Which of these is the name of a popular Canadian blue cheese variety?,Dragons Br
 The term espresso roast refers to what kind of bean?,relatively dark but this varies greatly depending on personal tastes and the variety of bean used,moderately dark with no visible oil on the surface of the bean,with a light cinnamon color,relatively dark but this varies greatly depending on personal tastes and the variety of bean used,very dark with a glossy sheen
 The term Espresso refers to which of these facts?,It could be any or all of these.,Hot water is pressed through finely ground coffee.,The coffee is brewed quickly.,The coffee should be served and drunk quickly.,It could be any or all of these.
 What is Barista?,The Italian word for bartender,The term applied to an expert coffee roaster,The French word for attorney,The proprietor of a coffee shop,The Italian word for bartender
+A serving of espresso contains more caffeine than a serving of instant coffee.,False,False,True,,
 Which statement regarding the difference between Cafe macchiato and Caffellatte is true?,Both are espresso based but contain different amounts of milk and milk foam.,One is espresso based the other is prepared with regular coffee and steamed milk.,Both are espresso based but contain different amounts of milk and milk foam.,"One is sweetened, the other is not.",Both are espresso based but contain different kinds of milk products.
 Which statement about the development of Espresso is true?,It was originally developed in the 20th century in Milan.,It was originally developed by a famous Seattle coffee house.,It was originally developed in France and was later refined in Italy.,It was originally developed in the 20th century in Milan.,It was originally developed by the Etruscans.
 What is the best evidence of a properly brewed espresso shot?,its crema,its aroma,its clarity,its color,its crema
@@ -774,6 +868,7 @@ What EU country first discovered the therapeutic powers of yogurt?,France,Spain,
 According to Russian biologist Ilya Mechnikov what explained the longevity of certain Bulgarian peasants?,The bacteria in yogurt,The concentrated calcium in yogurt,The bacteria in yogurt,The vitamins in yogurt,The cholesterol-lowering properties of yogurt
 "In 1919, Isaac Carasso established the first industrialized production of yogurt under the name Danone. What does Danone mean?",Little Daniel,Every day,Longevity,Health,Little Daniel
 "What is the most commonly used word for yogurt in India, as the word yogurt is unknown there?",Dahi,Rakhi,Kameishi,Dahi,Majereshi
+People who are lactose-intolerant should not consume yogurt or milk.,False,False,True,,
 In the treatment and prevention of what medical condition is yogurt proven to be beneficial?,All of these,Gum disease,All of these,Gastrointestinal conditions,Obesity
 What essential nutrient is plain yogurt rich in?,All of these,All of these,Vitamin B2,Vitamin B12,Vitamin B6
 "Which of these is a basic ingredients of the summer yogurt soup called tarator, very popular on the Balkans?",All of these,Cucumber,All of these,Dill,Garlic
@@ -819,6 +914,7 @@ Which of these is not among the traditional ingredients used for the making of t
 How is the popular Japanese meal Karaage prepared?,By deep frying,By roasting,By stewing,By boiling,By deep frying
 Of how many pieces does the traditional Sino-European domino set consist?,28,16,32,30,28
 Which of these is not one of the colloquial nicknames of the pieces of the domino set?,They all are,They all are,Stones,Spinners,Bones
+The largest commonly available domino set is the Double Twelve consisting of 91 tiles.,False,True,False,,
 "In the domino game Chicken Foot, which of the following is true about doubles?",When used as a spinner all sides of the double must be occupied before players can play anywhere else.,Doubles cannot be used as spinners.,When used as a spinner all sides of the double must be occupied before players can play anywhere else.,Players double their score when they put a double.,Players are only allowed to add tiles to a certain branch.
 "In domino, what does the term downing mean?",Putting the first tile of the game,Branching the line of play,Putting the last tile of the game,Blocking another player,Putting the first tile of the game
 In blocking domino games when does the scoring of the game happen?,At the end of the game,At the beginning of the game,In the middle of the game,Throughout the entire game,At the end of the game
@@ -909,6 +1005,7 @@ What is the main ingredient of the traditional Vietnamese dish Tiet canh?,Blood,
 In which part of the world are living animals traditionally and commonly eaten?,Far East,Far East,Australia and Tasmania,South America,Africa
 How does Islam treat the consumption of bat meat?,Bats are forbidden food.,None of these,All bat species are allowed to be consumed.,Carnivorous bat species are forbidden.,Bats are forbidden food.
 The slaughter of what animal is forbidden in almost all states in India by law?,Cow,Cow,Monkey,Sheep,Elephant
+The slaughter of what animal is forbidden in almost all states in India by law?,Cow,,,,
 "Although there are Chinese, English, Polish, Spanish, Italian, and Turkish variations of this game, played on a board of black and red square spaces, its origins can be traced back to 1600 BC ancient Egypt.",Checkers,Checkers,Othello,Go,Chess
 "This childrens pursuit board game, sold by toy and game manufacturer, Parker Brothers, is based on the ancient Indian game, Pachisi.",Sorry!,Snakes and ladders,Sorry!,Candy Land,Mouse Trap
 "One of the oldest games in recorded history, this strategy board game, where the moves are defined by the roll of two dice, is believed to have originated in ancient Mesopotamia. Excavations and literary references indicate that it was also popular in ancient Greece, Rome, Persia, and the Far East.",Backgammon,Go,Backgammon,Checkers,Chess
@@ -964,12 +1061,18 @@ The term roasting is often used interchangeably with this word.,Baking,Basting,B
 Which term does not belong with the others?,Poaching,Pot Roasting,Poaching,Braising,Stewing
 Why are foods basted?,To prevent them from drying out,To give them a crunchy crust,To add flavor,To prevent them from drying out,To give them a brown surface
 Which of these cooking methods does not involve hot oil or fat?,Boiling,Boiling,Stir Frying,Pan Frying,Sauteing
+The terms sweating and steaming refer to one and the same method of cooking.,False,False,True,,
 Which of these foods is generally poached in white wine?,Fish,Fruit,Eggs,Fish,Poultry
 "When you broil, where is the direct heat source?",Above the food,Below the food,There is no direct heat source; it uses indirect heat,Above the food,Surrounds the food
+Stir frying is a term used to describe two fast Chinese cooking techniques: chÇo and bÃ o.,True,True,False,,
+There is no difference between blanching and parboiling.,False,True,False,,
 How many pleats are on a traditional Chefs hat (the Grand Toque)?,100,100,70,50,20
+The only ingredients in a basic mayonnaise are oil and a whole egg.,False,False,True,,
 This dessert was made in honor of a famous singer.,Peach Melba,Cherries Jubalee,Peach Melba,Sacher Torte,Pineapple upside down cake
 Who is regarded as the first internationally recognized celebrity chef?,Marie-Antoine CarÃªme,Wolfgang Puck,Marie-Antoine CarÃªme,Jeff Smith,Paul Bocuse
+"Julie Child, known to many as The French Chef, was not French.",True,False,True,,
 Chef Jeff Smith of the Frugal Gourmet fame was removed from his TV show amid accusations of which of the following?,sexual harrasment,sexual harrasment,plagiarism,unsanitary kitchen practices,low ratings
+Chef Wolfgang Puck is of German descent.,False,True,False,,
 What is the measure for hotness of a chili pepper?,Scoville scale,Piquanat scale,Heat Factor Index,Scottsdale scale,Scoville scale
 Which ingredient for bread hurts the leavening (rising) ability?,salt,water,salt,flour,sugar
 What type of meat is used in Chateaubriand?,beef,lamb,beef,pork,deer
@@ -992,6 +1095,7 @@ The sign comes second.  Its personality is descibed as steady and supportive..,O
 It is the ninth Sign of the Chinese Zodiac.  It is best described as this.,Active and Agile,Powerful,Active and Agile,Soft and Fentle,Steady  Persistent
 The first Sign of the Chinese Zodiac.  It is a Yang Sign commonly associated with the Water Element.,Rat,Rat,Dog,Horse,Pig
 It is the 12th Sign of the Chinese Zodiac.  It is a Yin Sign associated with the Water Element.,Pig,Snake,Rabbit,Rat,Pig
+"The campaign for real ale, CAMRA, was founded in Ireland to revitalize British beer.",True,True,False,,
 This nation brews and drinks the most varied and numerous collection of beers in the world varying from the popular pale lager to the esoteric appeal of lambic.,Belgium,The Czech Republic,Belgium,Germany,The Netherlands
 By law German beer can only be made from these four ingredients:,"Water, hops, malted barley, yeast","Water, hops, malted barley, yeast","Water, hops, malted wheat, carbon dioxide","Water, hops, malt, citric acid","Water, hops, malt, sugar"
 This country has the most full sized breweries:,Germany,The USA,Belgium,Germany,The UK
@@ -1004,6 +1108,7 @@ Which of the the following is not a step in the brewing of beer?,steeping,steepi
 Which of the following colors is  not used in the card game Magic: The Gathering?,Orange,Blue,Orange,Green,Red
 Which of the following is the most expensive card in the game Magic: The Gathering?,Black Lotus,Wildfire,Mox Diamond,Black Lotus,Wrath of God
 Who created the collectible card game Magic: The Gathering?,Richard Garfield,Bennie Smith,Richard Garfield,Gary Gygax,Mike Flores
+A player begins a game of Magic: The Gathering with 40 life points.,False,False,True,,
 Which of the following spells in the card game Magic: The Gatheringcan destroy both creatures and enchantments?,Mortify,Blaze,Wrath of God,Putrefy,Mortify
 Which of the following cards in the game Magic: the Gathering is from the Onslaught Block?,"Visara, the Dreadful",Orims Chant,"Visara, the Dreadful",Hypnotic Specter,"Savra, Queen of the Golgari"
 "In the card game Magic: The Gathering, if your opponent casts Rend Flesh at your Hand of Honor, which spell could you use to save your creature?",Ghostway,Ebony Owl Netsuke.,Ghostway,Stifle,Oblivion Stone
@@ -1031,13 +1136,23 @@ This plant has a long and colorful history and its legal status varies from coun
 "Cultivated on a huge scale for the brewery industry, this plant grows separate as male and female.",Hops,Yeast,Hops,Amber,Rockberry
 In which country was coffee first roasted and brewed?,Ethiopia,Brasil,Zimbabwe,Ethiopia,Indonesia
 What is the fruit of the coffee plant called?,Cherry,Bean,Bead,Clove,Cherry
+"After harvesting, coffee beans must be dried.",True,True,False,,
 Green coffee beans stay acceptably fresh for how long?,Several years,Several months,Several days,Several weeks,Several years
 "Once ground, how long does it take before coffee begins to stale?",Minutes,Weeks,Hours,Minutes,Months
+Green coffee beans can be roasted on the stovetop in a frying pan.,True,True,False,,
+Green coffee beans can be roasted at home in less than 30 minutes.,True,True,False,,
 "After roasting, one pound (0.5 kg) of green coffee beans yields how much dried coffee?",Slightly less than one pound / 0.5 kg,Slightly more than one pound / 0.5 kg,Almost two pounds / 1 kg,Slightly less than one pound / 0.5 kg,One pound / 0.5 kg
 Island coffees are some of the smoothest and most expensive in the world. Where do they come from?,All of these,Hawaii,Jamaica,All of these,St. Helena
 "The worldâs most expensive coffee, Kopi Luwak, goes through a unique harvesting process. In Indonesian, âkopiâ means coffee and âluwakâ means what?",Civet,Mountain,Lunar,Civet,Sea Water
 Where is the clothing brand Lacoste originally from?,France,Canada,England,U.S.A.,France
 Who is the founder of the clothing brand Lacoste?,RenÃ© Lacoste,Pierre Lacoste,Johnathon P. Lacoste,RenÃ© Lacoste,Marc L. M. Smith
+Do Lacoste have shoes as part of their collections?,Yes,No,Yes,,
+Aspiration is one of the Lacoste perfumes for women.,False,True,False,,
+Does the clothing brand Lacoste offer ophthalmic glasses as well as sunglasses?,Yes,No,Yes,,
+"Lacoste offers clothing for kids, men and women.",True,True,False,,
+There are no stores of the clothing brand Lacoste in Canada.,False,True,False,,
+The name of the clothing brand Lacoste literally means the cost in French.,False,False,True,,
+There are Lacoste boutiques in Europe.,True,True,False,,
 What is the general term used for the food that is forbidden by the Jewish dietary laws?,Treif,Dores,Treif,Zefek,Kosher
 The consumption of which of these mammals is forbidden by Jewish laws?,All of these,Hare,Camel,All of these,Pig
 The consumption of what type of birds is forbidden by Jewish dietary laws?,Birds of prey,Mute birds,Birds of prey,Black birds,Flightless birds
@@ -1057,10 +1172,13 @@ Which of these countries has adopted the rose as its national flower?,England,En
 The red rose is a symbol of this political ideology.,Socialism,Monarchism,Liberalism,Socialism,Democracy
 What city in the state of Oregon is known as The City of Roses?,Portland,Portland,Astoria,Corvallis,Salem
 What is the common name for the rose species Rosa Chinensis?,China rose,Cabbage rose,China rose,Blood rose,Black rose
+"Popeyes opened their 1000th restaurant in New Orleans, LA.",False,True,False,,
 "How many calories does 1 piece of mild chicken breast, offered in Popeyes, have?",350 calories,250 calories,280 calories,350 calories,300 calories
 In what year was the first Popeyes restaurant opened?,1972,1973,1971,1970,1972
 Who sang the Popeyes trademark jingle Love that Chicken?,Dr. John,Nat King Cole,B.B. King,James Brown,Dr. John
 Who are the founders of Popeyes Chicken  Biscuits?,Al Copeland and Jerome Pentsky,Al Copeland and Jerome Pentsky,Al Pentsky and Jerome Copeland,John Wright and Johnny Capowski,John Capowski and Johhny Wright
+Popeyes franchising began in 1976.,True,True,False,,
+Did Popeyes merge with KFC in 1989?,No,Yes,No,,
 How many calories does one biscuit from Popeyes have?,240,220,260,240,280
 In what year did Popeyes go global?,1984,1980,1974,1984,1994
 How many prestigious industry awards did Popeyes Chicken  Biscuits win at their 30th anniversary?,2,2,1,0,3

@@ -1,6 +1,5 @@
 #this code is written for extracting data from files and then creating a csv
 #from it
-
 import os
 import csv
 
@@ -15,21 +14,25 @@ for filename in filenames:
   file = open("OpenTriviaQA/categories/"+filename,"r",encoding='latin-1')
 
   for line in file.readlines():
-    if line[0]=="#":
+    if line[:2]=="#Q":
       question = line[3:-1]
-    if line[0]=="^":
+    elif line[0]=="^":
       answer = line[2:-1]
-    if line[0]=="A":
+    elif line[0]=="A":
       A = line[2:-1]
-    if line[0]=="B":
+    elif line[0]=="B":
       B = line[2:-1]
-    if line[0]=="C":
+    elif line[0]=="C":
       C = line[2:-1]
-    if line[0]=="D":
+    elif line[0]=="D":
       D = line[2:-1]
+    elif line[:2]=="\n":
       mcq = {"question":question,"answer":answer,"A":A,"B":B,"C":C,"D":D}
+      A = ""
+      B = ""
+      C = ""
+      D = ""
       listOfQuestions.append(mcq)
-
   print(filename+" "+str(len(listOfQuestions)))
   
   with open(filename+".csv","w") as csvfile:
@@ -38,3 +41,4 @@ for filename in filenames:
     writer.writeheader()
     for every in listOfQuestions:
       writer.writerow(every)
+    

@@ -1,5 +1,8 @@
 question,answer,A,B,C,D
+What University did Donald Trump graduate from in 1968?,University of Pennsylvania,,,,
 Which vegetables are considered taboo food in Buddhist tradition?,Garlic and onion,All legumes,Garlic and onion,Eggplants and tomatoes,Cabbage and lettuce
+Is this the correct usage of the word inferring? ,No,No,Yes,,
+Is this the correct usage of the word continually? ,No,No,Yes,,
 Which of these sentences is correct?,Whence did he come?,"From hence to eternity, I will search.",Whence did he come?,From whence did he come?,"If you build it, thence he will come."
 Which of these is correct?,The capitol building is located in the capital.,The capitol building is located in the capitol.,The capital building is located in the capital.,The capitol building is located in the capital.,The capital building is located in the capitol.
 "In the following sentence, which word is incorrect?  ",None of the words is incorrect; the sentence is correct as is.,principal,unprincipled,principle,None of the words is incorrect; the sentence is correct as is.
@@ -27,19 +30,35 @@ Hyperplasia is the abnormal increase in the number of these.,Cells,Species,Habit
 The authority to teach religious doctrine is referred to as this.,Magisterium,Mastigophoran,Magistrature,Magistrateship,Magisterium
 "The word vampire is a very controversial one, when it comes to its etymology. There are many theories about its origin and meaning. According to one of these theories, vampire comes from the Magyar words vam, meaning blood, and pir. What does pir mean in Magyar?",Monster,Blood,Animal,Human,Monster
 "One of the most famous vampires is Dracula (some believe that he was the first vampire). In Romanian Dracul means either Dragon or Devil and therefore Dracula is translated as Son of the Dragon or Son of the Devil. Due to his favorite sadistic punishment, Vlad Dracula was nicknamed Tepes.  He preferred to kill those who opposed him in this manner.",Impalement,Hanging,Disembowelment,Impalement,Beheading
+"Vlad Tepes was one of the major allies of the Ottoman Empire, therefore Romania was never put under Ottoman rule.",False,True,False,,
 "Of course everybody knows about the Blood Vampires. They feed on the blood of their victims and prefer sucking it from the neck, the wrist or the groin. But there is another, less known, kind of vampires.  What do they feed on?",Aura,Vegetables,Flesh,Brains,Aura
 "Vampires are common to the folklore of many countries. The Civatateo is an Aztec vampire, created when a noblewoman died at childbirth. In aboriginal mythology, vampires had suckers on their fingers. What are the Yakshis (sort of Indian vampires) like?",Beautiful women,Beautiful women,Ugly Men,Wounded Wolves,Innocent Children
+"It is believed that you can stop a vampire, by throwing rice or marbles on the floor.",True,False,True,,
 "One of the most popular ways of killing a vampire (apart from the trivial sharp wooden stick in the heart), is to expose the creature to sunlight. However, there is a disease, that has similar symptoms. People who suffer from it are very sensitive to sunlight and avoid going out during the day. What is this horrible disease?",Porphyria,Anemia,Scrapie,Influenza,Porphyria
 "This woman was believed to be a vampire. She was obsessed with her beauty and youth, and slaughtered as many as six hundred innocent women in an attempt to maintain her vitality. Although her guilt has never been proven, she is still one of the most famous serial killers in Hungarian and Slovak history.",Elizabeth Bathory,Janos Benicka,Ilona Ujvary,Katarina Szentes,Elizabeth Bathory
+Silver doesnt harm vampires.,False,False,True,,
 "Peter Kurten was called a vampire, because he consumed the blood of some of his victims. He was accused of nine murders and seven attempted murders and was sentenced to death. He was guillotined on 2 June 1932. What was his nationality?",German,Briton,Romanian,Russian,German
 "The great circle on the celestial sphere, midway between the celestial poles is called this.",Equinoctial,Equilibration,Equinity,Equilibria,Equinoctial
 "If I am famous for my steadiness of mind under stress, then I am famous for this.",Equanimity,Equid,Equalization,Equanimity,Equalitarianism
 "If a statement is ambiguous, it is said to be this.",Equivocal,Equestrian,Equipoised,Equivocal,Equilateral
 One of the four pairs of words below contains two synonyms.,Equal - Equivalent,Equal - Equivalent,Equipollent - Equipped,Equipotential - Equilateral,Equipage - Equipoise
+Do the words equivoke and equivoque mean the same?,Yes,No,Yes,,
+Gilgamesh is a character from the Sumerian mythology.,True,True,False,,
+Athena was the Greek equivalent of the goddess Minerva.,True,True,False,,
+"Nike was a goddess, who personified triumph and victory (Greek mythology). Ironically, she was paralyzed and could not move her legs.",False,False,True,,
+"Helicon is the name of an ancient lake, where the Muses were born.",False,True,False,,
+Calliope was the muse for music.,False,True,False,,
+Marduk was a Mesopotamian deity.,True,False,True,,
+Svarog is the highest god of the pantheon (Slavic mythology) and the god of thunder and lightning.,False,True,False,,
+The creature from Slavic mythology known as Zmey actually resembles a dragon.,True,False,True,,
+Loki is the god of mischief of Norse mythology.,True,True,False,,
 "One of these words has mid-17th century Latin origins and is a synonym of the word, wavy.",Undulate,Unhair,Unialgal,Unduly,Undulate
 Which of these definitions does not describe a present day meaning of the word sesquipedalian?,Having a lot of feet,Characterized by the use of long words,Having a lot of feet,Having many syllables,Large in length
+"The archaic word wittol, already out of use and found mostly in old books, stands for a person who is very wise.",False,True,False,,
 Which of these words is used to describe something with a yellow color or tending toward a yellow color?,Xanthic,Xeric,Xenolith,Xanadu,Xanthic
+The word âpromiscuousâ? is used in physical description to refer to someone with exclusive charm and sex appeal.,False,False,True,,
 "We all know purple and its numerous variations, but can you name the odd one in this synonymic order dedicated to the shade of purple?",Indigo,Lavender,Indigo,Amethyst,Wine
+"Having in mind the words meaning, does it  fit in the following analogy: Juvenile is to young as *geriatric* is to aged.",Yes,No,Yes,,
 "The amarok, which is typical for the mythology of the Eskimos, is what kind of an animal?",wolf,whale,walrus,bear,wolf
 "The banshee, a female spirit in Irish mythology, is known for doing what?",Wailing,Laughing,Stealing,Playing tricks,Wailing
 "The hippocampus, a mythical monster with the head of a horse and body of a fish, pulled the chariot of which god?",Poseidon,Zeus,Poseidon,Mars,Neptune
@@ -50,9 +69,11 @@ A cuero is a mythical giant octopus of which continent?,South America,South Amer
 "A dwarf is a little humanoid creature with a large head and a long beard, typical for what mythology?",Scandinavian,Cornish,Scottish,Celtic,Scandinavian
 A ghul is an evil spirit encountered by travelers in what area of the world?,Arabian Dessert,Arabian Dessert,Scottish Highlands,Northern Africa,Australian Outback
 The wodewose is a club-wielding ogre with green hair who suffers from what malady?,He was mute,He was mute,He was blind,He was lame,He was deaf
+The gods Atum and Ra merged.  The dominant of the two was Ra.,True,True,False,,
 Priests often wore a mask of this god during mummification ceremonies.,Anubis,Bastet,Hapy,Aten,Anubis
 God Bes was depicted as this.,Dwarf with lion and human features,Dwarf with lion and human features,Giant with dog and human features,Dwarf with dog and human features,Giant with lion and human features
 Osiris had an equivalent in Greek mythology.  Who was this counterpart of his?,Hades,Herakles,Zeus,Hades,Hermes
+Tefnut had the body of a lioness.,False,False,True,,
 The name of god Amen means this.,The Hidden One,The Wise One,The Stupid One,The Mighty One,The Hidden One
 "At first, there was only this god. He was the dark waters of chaos.",Nun,Nun,Atum,Iris,Bes
 The word tycoon means a wealthy businessperson.  What language does it come from?,Chinese,Greek,Latin,Russian,Chinese
@@ -107,11 +128,20 @@ The moving song I Am What I Am is sung at the end of Act I of which Jerry Herman
 Which musical of the 50s featured the song Some Enchanted Evening?,South Pacific,Mame,Hello Dolly,South Pacific,George M.
 Whatever Lola Wants is performed by the sultry Lola trying to tempt a faithful husband in which  Bob Fosse show?,Damn Yankees,Fosse,The Pajama Game,Chicago,Damn Yankees
 In which show does Eliza sing The Rain in Spain?,My Fair Lady,My One and Only,Kismet,Kiss me Kate,My Fair Lady
+Fill in the blank with the correct word:,My Fair Lady,,,,
 Fill in the blank with the correct word:,its,...,its,...,its
+The word catholic means the same whether capitalized or not.,False,False,True,,
+"Stationery means fixed, not moveable.",False,True,False,,
+Stationary is fancy writing paper.,False,False,True,,
 What is the meaning of the adverb altogether?,Entirely,Entirely,Near by,Unclothed,In the same place
 What does the collocation all together mean?,In the same place,In the same place,Completely,The same as altogether,All told
 What does the word principal mean?,Main,Origin,Main,Characteristic,Law
+Is counsel the correct word for a group called together for a purpose?,No,No,Yes,,
+Counsel is giving of advice.,True,False,True,,
 "These creatures ruled the world until they were overthrown by the Twelve Olympians, led by Zeus.",Titans,Cyclopes,Titans,Animals,Humans
+"Cronus learned he was destined to be overcome by his own son as he had overthrown his own father, thats why he wanted to kill Zeus.",True,True,False,,
+The Cyclopes gave Zeus fire.,False,True,False,,
+Hermes is the highest ranking and most powerful god in Greek mythology.,False,True,False,,
 What was Rembrandts last name?,Van Rijn,Rembrandt is his last name,Van Dyke,Bosch,Van Rijn
 What was the first name of Van Goghs brother?,Theo,Theo,Pierre,Edward,Hans
 For which opera did Gershwin become posthumously famous?,Porgy and Bess,Rhapsody in Blue,An American in Paris,The Days Gone By,Porgy and Bess
@@ -134,9 +164,12 @@ Which prefix means across a distance?,TELE-,TELE-,PALEO-,PHILO-,PROTO-
 Which of the following prefixes does not mean not?,Pan,A-,In-,Non-,Pan
 Which prefix means together?,CO-,CO-,PROTO-,SOLI-,HETERO-
 Freya was the goddess of this.,Love and beauty,Poetry,The flowers,Love and beauty,Old age and madness
+There were two major clans of Norse gods - Vanir and Æsir.,True,False,True,,
 Odins favorite pets were these creatures.,Ravens,Ravens,Bats,Hawks,Snakes
 What did god Tyr sacrifice in order to bind the evil Fenris wolf?,His hand,His hand,His eye,His head,His leg
 Which of the following gods was famous for his talent to quickly transform his appearance?,Loki,Fenrir,Loki,Asgard,Hel
+God Ori was a giant.,False,False,True,,
+"Goddess Skadi was not permitted to look at the gods faces, while choosing her husband among them.",True,True,False,,
 Norse mythology associates the aurora with this beautiful goddess.,Freya,Frigg,Freya,Elli,Eir
 "He was the first man, according to Norse mythology.",Ask,Annar,Ask,Arvak,Aud
 "In what movie does a character say,  Yo, Adrian.?",Rocky,The Godfather,Rocky,"New York, New York",On the Waterfront
@@ -146,30 +179,42 @@ A playwright is someone who writes for the theatre. One of the following famous 
 One of these is not a spright.,A dwarf.,A dwarf.,A specter or ghost.,An elflike person.,A soul.
 "If he denied the charges outright, then his denial cannot be described as this.",Kind,Open,Complete,Immediate,Kind
 In the UK one of these parties is not considered right-winged.,Scottish National Party,United Kingdom Independence Party,Scottish National Party,Conservative Party,Democratic Unionist Party
+Dexter from Dexters Lab was right-handed.,False,True,False,,
 Which of these languages is not an official national language in a South American country?,German,English,Dutch,German,Guarani
 What language has the most native speakers in the world?,Mandarin,English,Spanish,Arabic,Mandarin
 "What movie features an actor speaking one of the Khoisan languages of southwestern Africa, which have a range of click sounds (sounds which are not found outside this region)?",The Gods Must Be Crazy,A Dry White Season,The Gods Must Be Crazy,Cry Freedom,Hotel Rwanda
 "The largest language family (a group of historically related languages) is the Indo-European family, which includes well-known European languages such as English, French and Russian. Which of the following languages is NOT a member of this family?",Hebrew,Hindi,Hebrew,Armenian,Kurdish
 What European language is not related to any other language in the world?,Basque,English,Greek,Hungarian,Basque
 "The Romance languages are all descended from Latin, and form a branch of the Indo-European family. It is common knowledge that languages such as French, Spanish, Italian and Portuguese are related and are Romance languages. There is another major European language which is also a member of this branch. What is it?",Romanian,Romanian,Irish,Hungarian,Bulgarian
+The Chinese language is related to Japanese.,False,False,True,,
 "What language has contributed the following words to the English language: ketchup, gong, orangutan, amok, bamboo, cockatoo, mango, paddy, gingham, compound (as in military compound) and cooties?",Malay,Portuguese,Chinese,Malay,Hindi
 "What language has contributed the following words to English: bungalow, jungle, thug, khaki, cot, loot, sentry, shampoo, and bangle?",Hindi,Portuguese,Chinese,Malay,Hindi
 "The nation of Singapore has four official languages. However, all education is conducted in this language, by law.",English,Tamil,Malay,Chinese,English
+"Zeus, Hades, and Poseidon are brothers.",True,False,True,,
 Which goddess was Apollos sister?,Artemis,Athena,Hestia,Hera,Artemis
 Zeus was married to this goddess.,Hera,Athena,Hestia,Hera,Demeter
+Hades is considered one of the Twelve Olympians.,No,Yes,No,,
 "What is the name of the daughter of the goddess, Demeter?",Persephone,Aphrodite,Hestia,Luna,Persephone
 What is the name of the 3 headed dog that guards the Underworld?,Cerberus,Romulus,Cerberus,Grendel,Remus
+"The city of Athens was almost named after Poseidon, rather than Athena.",True,True,False,,
 "Hermes is the Greek god of shepards, land travel, weights and measures, oratory, literature, merchants and athletics. His Roman equivalent however, is usually considered to be just the god of trade, profit and travel. Who is the Roman god in question?",Mercury,Mercury,Juno,Saturn,Mars
 Dionysus is the Greek god of wine. Who is the Roman god of wine?,Bacchus,Mars,Cacius,Aurora,Bacchus
+"Cupid is the Roman counterpart of Aphrodite, the Greek goddess of love.",False,True,False,,
 Hephaestus is the Greek God of fire and the patron of blacksmiths. Who is the Roman god of fire and craftsmanship?,Vulcan,Vulcan,Vitrus,Spock,Theia
 "The Greek goddess of flowers is Chloris. Who is the Roman goddess of flowers, the personification of spring?",Flora,Diana,Flora,Fauna,Gaia
 "Poseidon, the Greek god of the sea, was very popular and powerful among Greek sailors. His Roman equivalent was inferior in power and popularity. Who was the Roman god of the sea?",Neptune,Orion,Neptune,Mars,Saturn
+"Hades, the Greek god of the Underworld, is known as Pluto in Roman mythology.",True,False,True,,
 "Eros is the Greek personification of the dawn and his siblings are the sun (Helios) and the moon (Selene). Who is the Roman personification of the dawn, whose siblings are Sol (sun) and Luna (moon).",Aurora,Aurora,Gaia,Celeste,Hestasia
 Which one of these words means sooty or murky; having a dark or dusky color?,Fuliginous,Fuliginous,Inkhorn,Somnolent,Alfresco
+Hemidemisemiquaver is a musical time meaning 1/64 of a note.,True,False,True,,
 Which word means a group of unofficial often secret and scheming advisers?,Camarilla,Pratfall,Estival,Xeriscape,Camarilla
+"The word thimblerig means to play by the rules, to be fair.",False,True,False,,
 What word means to be not reputable or decent?,Louche,Louche,Jocose,Prehensile,Demulcent
+Prothalamion is a funeral song.,False,False,True,,
 "What word means melancholy, gloomy, or having a peevish temperament?",Atrabilious,Wimple,Golconda,Askew,Atrabilious
+"Aparatchik is a blindly devoted official, follower or member of an organization.",True,False,True,,
 What word means a defamatory falsehood published for political effect?,Roorback,Roorback,Anabasis,Roister,Cineast
+The word henotheism means denial of the existence of gods other than ones own.,False,False,True,,
 It is estimated that this country has more English speakers than the United States.,China,India,Japan,China,UK
 "The Mazateco language is the native language of the Mazatec peoples of Oaxaca, Mexico. Besides by words, messages in this language can be conveyed by what other means?",By whistling,By clicking ones tongue,By tramping,By whistling,By singing
 "The creator of the most widely used constructed international language, Esperanto, philologist L. L. Zamenhof, had what other profession?",Ophthalmologist,Psychologist,Librarian,Ophthalmologist,Cook
@@ -177,6 +222,7 @@ Which of the following languages does not use a definite article?,Russian,German
 In which country should you be careful with any objects labelled gift (when the word is used as a noun)?,Germany,Finland,Germany,Sweden,Norway
 Which of these words begins with one and the same sound in a great percentage of the languages in the world?,Mother,Bread,Smile,Mother,Love
 Which is the only South American country that uses English as its official language?,Guyana,Brazil,Ecuador,Guyana,Suriname
+"Most of the traditional Indo-European languages capitalise I, the pronoun denoting the first person singular.",False,False,True,,
 "Which is the common official language of Austria, Liechtenstein, and Switzerland?",German,German,English,Swedish,French
 What is the country with the greatest number of official languages?,India,India,South Africa,USA,China
 Which Broadway show features the character of Billy Bigelow as the male lead?,Carousel,Carousel,South Pacific,A Chorus Line,Oklahoma
@@ -202,8 +248,11 @@ This anatomist is famous for his discovery of the first specimen of early homini
 This double-letter word is used to describe many items and is even the last name of some very famous people and fictional characters.,Little,Small,Narrow,Little,Lesser
 This is an activity you usually do on snow but sometimes it is done on water.,Skiing,Running,Skating,Skiing,Shooting
 This double-letter word refers to a yummy baked dish that can be delivered to your house hot and ready to eat.,Pizza,Rolls,Spaghetti,Pizza,Moonpies
+The word savvy means intelligence or common sense.,True,True,False,,
+The word vacuum means a space entirely devoid of matter.,True,False,True,,
 These furry bundles of joy sometimes cause severe allergies in people.,kittens,rattle snakes,wobbles,goons,kittens
 Which of the following words best fits this sentence: The next ____ will be out soon for everyone to read.?,issue,newspaper,bubble,issue,pizzas
+"A bubble is a period of intense speculation in a market, causing prices to rise quickly to irrational levels and then fall even more quickly as the bubble bursts.",True,True,False,,
 Sometimes people who hike  very long distances hide supplies in boxes along their route. What are these boxes called?,bounce boxes,suppliboxes,route boxes,bounce boxes,roadplies
 In 2007 this expression was introduced to describe an economy that is in a real frenzy.,cappuccino economy,latteconomy,cappuccino economy,caffeine economy,Potus
 Someone who did not like the hardware made by Apple might use this expression.,MacIntrash,MacIntrash,Sourapple,Roottenmacs,Jobs Sobs
@@ -234,10 +283,15 @@ Which Medici family member commissioned the great Florentine architect Brunelles
 "Only one of these sculptures is not a work of Antonio Canova, famous for his ability to delicately render nude flesh in his statues.",The Virgin,The Three Graces,Daedalus and Icarus,Cupid and Psyche,The Virgin
 "Typical of the baroque architecture, this was the paradigm of the basilica, mainly in Italy and France.",Crossed dome and nave,Clerestory windows,Apse of one end,Crossed dome and nave,Interior colonnades
 Which of these words means to be transitory or perishable?,Caducity,Panoptic,Antithetical,Caducity,Cavil
+Indomitable means unconquerable.,True,True,False,,
 Which of these words is defined as indifferent or nonchalant?,Pococurante,Binary,Askew,Pococurante,Lissome
+The term waddy is a noun that means sailor.,False,True,False,,
 What word defines a person who lives in seclusion for religious reasons?,Anchorite,Garderobe,Wimple,Canard,Anchorite
+Panoptic means having a panoramic view.,True,True,False,,
 What noun refers to a bald-headed man or a man that is looked at with humor or mock pity?,Pilgarlic,Libertine,Pilgarlic,Infix,Distrait
+The word palmy means poor or underfunded.,False,True,False,,
 What word means either cheerful and optimistic or having good digestion?,Eupeptic,Eupeptic,Demulcent,Resplendent,Estival
+Jocose means somber or depressed.,False,True,False,,
 What is a privet?,a type of shrub,an electronic circuit,a prudish person,a type of animal,a type of shrub
 "Which of these words means loose hemp or jute fiber, occasionally treated with pitch or tar?",oakum,oak leaf cluster,oakum,ocarina,oarlock
 Can you define the word nimbus?,a halo or bright light,a state of being numb,a halo or bright light,an alcove or recess in a wall,a radioactive element
@@ -275,6 +329,8 @@ What is the definition of the word acoushla?,a term of endearment,a term of ende
 Which word means a person learning the alphabet?,abecedarian,avuncularian,abcederrian,abcadarian,abecedarian
 What does acronyal mean?,occurring at sunset,not at a regular time,late,occurring at sunset,not on an annual basis
 Select the correct spelling.,bellwether,bellweather,belweather,bellwether,belwether
+Hestia is the goddess of the hearth in Greek mythology.,True,True,False,,
+Apollo is the Greek god of the hunt.,False,True,False,,
 Goddess Demeter taught the human beings what according to Greek mythology?,Farming,None of these,Farming,Swimming,Hunting
 What is Poseidon god of in Greek mythology?,Nature and the seas,Nature and the seas,None of these,Movement,Poisons
 "When drawing the human form, the entire figure is generally how many heads tall?",8,10,6,8,7
@@ -286,21 +342,28 @@ Which of these qualities represents the major difference between watercolor and 
 "What style of art breaks from traditional perspective and depicts the subject matter from multiple points of view, fragmenting a three-dimensional form in order to depict it on the two-dimensional surface?",Cubism,Fauvism,Cubism,Impressionism,Expressionism
 Which of the following is not an ingredient in typical camera film?,Sucrose,Gelatin,Polyester,Sucrose,Cellulose Acetate
 "A drawing in which one continuous line is used to trace the outlines of the subject matter, using more or less pressure to suggest shadow, is called what?",Contour,Gesture,Line,Contour,Trace
+"The method of watercolor painting in which paper, crumpled plastic wrap, or other items are applied to the paint when wet and removed after drying is called decalcomania.",True,True,False,,
 Tango is a complicated dance with even more complicated origins. Angel Villoldo was the first to ever record a Tango. This is the home of Tango (and Angel Villoldo ).,Argentina,Spain,England,France,Argentina
 One of the most popular Latin American dances is cha-cha-cha. It became popular in the United States in the 1950s and its music was derived from the music of this dance.,Mambo,Mambo,Foxtrot,Merengue,Polka
+The home country of Salsa is Brazil.,False,True,False,,
 One of the best (some say he was the best ever) tango dancers was JosÐµ Ovidio Bianquet. His story is as mysterious as tango itself and his nickname is one of the most legendary in the history of this great dance. What is it?,El Cachafaz,Sin rumbo,El Tarila,El Cachafaz,El Vasco
 "The word samba is probably derived from the Angolan semba, meaning a religious rhythm. The dance and its music were born in the black ghettos of this city. The biggest samba carnival is also held in this city.",Rio de Janeiro,Rio de Janeiro,San Juan,Havana,Brasilia
+Merengue was born in Portugal in the 16th century as part of an important ritual.,False,False,True,,
 Probably the most famous and influential ballroom dance is Waltz. Its closed position became an example for many other dances and made it very fashionable. Waltz first became popular in this city and then spread all over the world.,Vienna,Paris,Toledo,Vienna,London
 "One of the symbols of the Spanish culture is the Flamenco (Flamenco originally meant Flemish in Spanish). At first Flamenco consisted only of unaccompanied singing, but later came the other essential ingredients, such as the dance and the guitar. What is the name of the flamenco guitar?",Toque,Cajon,Palmas,Toque,Baile
+Quadrille was born as part of military parades in the 17th century and was performed by 4 horsemen and their horses.,True,True,False,,
 "This is a Polish folk dance which became quite popular at ballrooms. It is in triple time and its tempo is usually moderate. It has spread all over the world in countries such as the United States, Russia and France.",Mazurka,Polka,Mazurka,Polska,Cumbia
 This Latin phrase means to a sickening or tiresome degree.,ad nauseam,sic malaria,in tota nauseam,sin vibre,ad nauseam
 "In debating, this term refers to an argument that attacks a persons character, as opposed to the subject of debate.",ad hominem,ad hoc,ad hominem,in argumentatus,ad homunculus
 This is a label inside a book that bears the owners name.,ex libris,ad literatus,ex libris,in libro,ex literatus
 "In England, names of places ending in chester, like Manchester and Winchester come from a Latin word meaning what?",camp,meadow,stream,camp,house
+Argentina comes from the Latin word Argentum which means silver.,True,True,False,,
 "A corrupted version of the Arabic word wadi, meaning watercourse, gives us this Spanish toponym.",Guadalajara,Salamanca,Madrid,Andalucia,Guadalajara
 "The Native Americans knew this place as Mesconsing, Lewis and Clark recorded it as Quisconsing. Its name was further distorted. What do we know it today as?",Wisconsin,Wisconsin,Quebec,Colorado,"Lansing, Michigan"
 "What do the toponyms Rio Grande, Mississippi and Ta Ho mean in their native tongues?",Big River,Long River,Big River,Great River,Surrounded by water
+Cairo means happiness in Arabic.,False,True,False,,
 What place in New York was named Vlissigen by the Dutch?,Flushing,Yonkers,Brooklyn,Flushing,Harlem
+Omaha is a distorted Native American tribal name.,True,True,False,,
 What does Sahara mean in Arabic?,wasteland,oasis,fertile,wasteland,sand
 For which monarch was the state of Virginia named?,Queen Elizabeth I of England,King Louis IV of France,King Virgil of Denmark,Mary Queen of Scots,Queen Elizabeth I of England
 Which one of these words means an ornamental clasp or pin?,brooch,brocade,ballast,bivouac,brooch
@@ -313,11 +376,21 @@ Which of these word means a large group?,bevy,bugaboo,bastion,bevy,blandishment
 Which of these B words means shortness of duration?,brevity,blasphemy,bureaucracy,brevity,buffoonery
 Which one of these words means cheerful and optimistic?,buoyant,buoyant,bacchanalian,bereft,bucolic
 Which of these words means highly ornate?,baroque,baroque,bombastic,blase,burnishing
+Is it true that the figures of Cupid throughout history have had two different sides?,Yes,Yes,No,,
+There are several different stories about Cupids parentage and the most popular is that his mother is Venus and his father - Mars.,True,True,False,,
+The typical Christian depiction of a cherub is often compared to Cupid.,True,False,True,,
+Cupid appears in the movie Toothless and is portrayed by actor Richard Chamberlain.,False,True,False,,
 "According to Greek mythology, this god is responsible for lust, love and sex.",Eros,Eros,Cupid,Mars,Kama
+"In ancient Athens, one day per week was sacred to Eros.",False,False,True,,
+"February 14 is the day set aside for Valentines Day, the day celebrating love.",True,False,True,,
+100 million valentines are estimated to be given out in February in honor of Valentines Day.,False,False,True,,
 What kind of creature is the leprechaun in Irish mythology?,Fairy,Fairy,Gnome,Dwarf,Demon
 "Which popular NBA team has a logo, featuring a leprechaun?",Boston Celtics,Washington Wizards,L.A. Lakers,Boston Celtics,Orlando Magic
+Once leprechauns were described as creatures dressed in red.,True,False,True,,
 What is the traditional craft practiced by leprechauns according to Irish mythology?,making shoes,making shoes,making shamrocks,making hats,making gold coins
+"According to legend, a leprechaun must tell the truth if looked directly in the eye.",True,True,False,,
 "In the old days, in order to keep leprechauns content, Irish people used to leave out a dish of what?",Milk,Milk,Beer,Whiskey,Cookies
+There are female leprechauns.,False,True,False,,
 A quorum has to do with a group of  which of these?,people,flowers,words,animals,people
 Which of these words is associated with clothing?,raiment,raison detre,raiment,recherche,rugger
 Pick out the word that means a type of person.,sybarite,sylvan,sybarite,stentorian,sternum
@@ -329,12 +402,14 @@ Pick out the name of the king of Persia from either 519-465 B.C. or 486-465 B.C.
 The word yurt is similar in meaning to which of these words?,tent,a medieval creature,ship,statue,tent
 Zoroastrianism refers to which of the following?,a type of religion,,a type of religion,human sacrifice,Greek philosophy
 Which of these words means to guess?,conjecture,conjecture,castigate,contrive,coerce
+Does the word clemency mean the state of being a huge Mark Twain fan?,No,Yes,No,,
 Pick the word that does NOT mean conversation.,concordance,colloquy,chitchat,concordance,conference
 Which of these words can be defined as an expert critical judge of art?,connoisseur,coquette,connoisseur,clairvoyant,charlatan
 Which one of these words means pleased or satisfied with oneself?,complacent,capacious,complacent,congenial,candid
 Which of these words means panic?,consternation,cynicism,cataclysm,cacophony,consternation
 Pick the word that means annoyance at ones own failures or errors.,chagrin,cupidity,collusion,chagrin,composure
 Which one of these words means to recover after a sickness?,convalesce,cauterize,convalesce,coddle,conciliate
+The word centimeter means one hundred meters.,False,False,True,,
 Find the word that does NOT mean to hold back.,conduce,check,constrain,control,conduce
 For which culture does a Sinophile have an obsessive love?,China,France,China,Japan,England
 Philhellenism is an obsessive love of which culture?,Greek,Chinese,Japanese,Greek,German
@@ -352,8 +427,10 @@ Which of these phrases can mean fashionable?,a la mode,a propos,a la carte,a gog
 "Literally (not figuratively), what does the word adieu mean?",to God,to God,farewell,what,hello
 What is an aperitif?,a before meal drink,a terrific person,a before meal drink,an opening,a guess
 What does blase mean?,unimpressed,blazer,unimpressed,tired,bleak
+Cafe au lait is an outdoor cafe.,False,True,False,,
 What does the word coquette mean?,a flirtatious girl,a flirtatious girl,a fancy hair style,a salmon patty,a type of poodle
 Which phrase refers to love of life?,joie de vivre,joie de livre,joie de vivre,joie dadore,joie de cafe
+"The definition of the phrase, cause celebre, is an issue arousing widespread controversy or heated public debate.",True,True,False,,
 What is the literal translation of vis-a-vis?,face to face,face to face,I see you,up front,in regards to
 Which phrase can mean feat of strength?,tour de force,soup du jour,tete a tete,tour de suite,tour de force
 Suppose you wanted to study law and become a lawyer.   The word for lawyer in Spanish is _______________.,abogado,peluquero,abogado,conductor,cocinero
@@ -362,6 +439,7 @@ What if you wanted to be the mayor of your town?   What would that profession be
 "How about if you become a baker?  In Spanish, you would be called a what?",panadero,panadero,carpintero,marinero,cerrajero
 Youre 5 years old.   Your mommy asks you what you want to be when you grow up.  You say I wanna be a cowboy.  How would you say cowboy in Spanish?,vaquero,contador,escultor,vaquero,taquillero
 "My dad is an avid fisherman.  If he were a Spanish fisherman, what would his profession be called?",pescador,florista,cartero,pescador,artesano
+"If you wanted to be a clown in a Spanish circus, you would be called a payaso.",True,True,False,,
 Your father was a cobbler. Your grandfather was a cobbler. Your great grandfather was a cobbler.  Chances are you may become a cobbler too.  What would the Spanish word for cobbler be?,zapatero,criado,zapatero,jardinero,camarero
 "Okay, so you want to be a judge in Madrid.  What word would you be called?",juez,juez,plomero,cambiadiscos,borracho
 My brother lives in Mexico City.  He wants to be a trainer.  What would his job be called in Spanish?,entrenador,enfermero,droguero,entrenador,fraile
@@ -376,9 +454,12 @@ Give me the English variant for the Spanish first name Guillermo.,William,George
 What is the translation of the Spanish word miÃ©rcoles in English?,Wednesday,Wednesday,Saturday,Friday,Monday
 How do you translate cuchara from Spanish to English?,spoon,spoon,knife,fork,plate
 What is a Tombola?,A type of lottery,A type of lottery,A bone of the inner ear,A male cricketer,A musical instrument
+Tomentum is a word describing the increase in speed of a rolling object which is then accelerated e.g. kicking a soccer ball,False,True,False,,
 What is another word for tome?,work,sound,pass,work,trumpet
 Which Tom played Dr Who in the cult BBC television series?,Tom Baker,Tom Baker,Tom Stoppard,Tom Archer,Tom Collins
 Which musician(s) created the rock opera Tommy?,The Who,The Rolling Stones,Elton John,The Beatles,The Who
+"A Tom Collins is a long drink consisting of vodka, lime or lemon juice, sugar and soda water.",False,False,True,,
+"In Greek mythology, Sirens often led sailors to their deaths with their beautiful songs.",True,False,True,,
 "In Greek mythology, a minotaur was made up of what two creatures?",man and bull,man and horse,man and woman,man and bull,man and lion
 This 3-headed beast guarded the gates to Hades.,Cerberus,Hydra,Sphinx,Cerberus,Zylon
 How do we call a person who initiates an attack?,aggressor,aggressor,tailor,scarfor,administrator
@@ -386,9 +467,15 @@ This is how we refer to a person who writes any type of literary products.,autho
 What is the term for a person responsible for devising a new machine or a new process of doing something?,inventor,administrator,author,mentor,inventor
 How do we call a person who takes on a new identity in order to deceive?,impostor,impostor,aggressor,perceptor,deceptor
 "Someone who entertains by pretending to be someone else, usually either in a play or through film products.",actor,actor,spectator,director,creator
+A university or college teacher is known as a professor.,True,True,False,,
 How do we call someone that does detective work?,investigator,investigator,instigator,supervisor,impostor
+A tailor is someone who only makes new clothes.,False,True,False,,
+A spectator is someone who participates in activities or sporting events.,False,True,False,,
 Which of these terms are used for a person who is responsible for or oversees the work done by others?,all of these,administrator,supervisor,director,all of these
 "This god, representing everything that threatened harmony in Egypt, was the brother of Osiris and Isis. He murdered Osiris, then battled with his nephew Horus to be the ruler of the living.",Seth,Sobek,Seth,Shu,Thoth
+"Since jackals were often seen in cemeteries, the ancient Egyptians believed that Anubis, a god with human body and jackal head, watched over the process of embalming.",True,True,False,,
+"Tawaret was a goddess who protected women during pregnancy and childbirth. She was most often depicted with the head of a hippopotamus, arms and legs of a lion, back and tail of a crocodile, and breasts and stomach of a pregnant woman.",True,True,False,,
+The goddess Anekantin was Isisâ sister and Anubisâ wife.,False,True,False,,
 This center is associated with intuition and sensory perception.,Center of brow,Center of brow,Heart,Mid-back,Base of spine
 Location of the spiritual center.,Throat,Crown,Back,Spine,Throat
 What color would you use to heal the etheric (root) center?,Red,Blue,Green,Red,Yellow
@@ -400,6 +487,7 @@ The brow center is associated with a persons extra-sensory perception and inner 
 How many major chakras are there?,7,7,9,8,6
 Chakras are centers for this intangible quality.,Energy,Emotion,Soul,Energy,Spirit
 Which German word means knowledge in English?,Kenntniss,Kuchen,Kenntniss,Trinken,Antwort
+The German noun Frage means question in English.,True,False,True,,
 How is the German word Arztin translated into English?,Doctor,Doctor,Kitchen,Art show,Bathroom
 What is the English equivalent of the German phrase Woher kommen Sie?,Where do you come from?,Where is that?,Where do you come from?,What is that?,What did she say?
 "German and English have a lot in common, because they both belong to the group of Germanic languages. How is the question Wie alt sind Sie? translated into English?",How old are you?,Where do you live?,How do you get there?,How do you do?,How old are you?
@@ -440,10 +528,14 @@ Complete the following proverb: Learn to walk before you ...,Run,Run,Crawl,Speak
 "Within the Olympian tradition, Dionysos was said to be the son of Zeus and which mortal woman?",Semele,Semele,Medea,Metis,Leda
 In both Greek and Roman mythology Dionysus is known by what other name?,Bacchus,Bacchus,Ares,Cadmus,None of these
 Which word refers to the ecstatic female worshippers of god Dionysos?,maenads,maenads,satyrs,herms,sileni
+Dendrites is one of the epithets used for god Dionysus.,True,False,True,,
+"God Dionysus is viewed as the promoter of civilization, a lawgiver, and lover of peace.",True,True,False,,
 "Which word refers to the eating of raw flesh, a common practice in Dionysian worship?",omophagia,ekstasis,sparagmos,enthousiasmos,omophagia
 "These mythological half-man and half-goat creatures, which roamed the woods and mountains, were companions of Dionysus.",satyrs,satyrs,centaurs,bacchaents,silenis
 Worshippers of god Dionysus often wore what type of attire over their shoulders?,fawn skin,goat-skin,lions head,fawn skin,sheep-skin
+"Anthesteria, a festival in honour of Dionysus, celebrated the maturing of the wine stored at the previous vintage, and the beginning of spring.",True,False,True,,
 Which one of these goddesses is NOT similar to Aphrodite in some way?,Saraswati,Saraswati,Turan,Inanna,Ishtar
+Was the lime tree goddess Aphrodites sacred tree?,Yes,No,Yes,,
 Which one of these animals was NOT sacred for Aphrodite?,Peacock,Dolphin,Swan,Sparrow,Peacock
 Which one of these names is not one of goddess Aphrodites surnames?,Telaia,Dionaea,Anandymene,Acraea,Telaia
 "According to Greek mythology, who was Adonia?",The name of a festival to celebrate Adonis and Aphrodite,Adonis and Aphrodites daughter,Aphrodites servant,The name of a festival to celebrate Adonis and Aphrodite,Adonis and Aphrodites son
@@ -457,6 +549,7 @@ This woman is referred to as the the most outstanding woman goldsmith of her gen
 She was the predecessor of Madame Tussaud. She modelled wax figures of famous people.,Patience Wright,Luisa Roldan,Frances Scott,Patience Wright,Caroline Watson
 "Although she was very young in 1876,  she had great success painting the portrait of Sarah Bernhardt.",Louise Abbema,Charlotte Bonaparte,Maria Bashkirtseff,Louise Abbema,Anna Bilinska
 "The themes of this artist are feminist and political, depicting literary-historical figure groups and decorative female heads.",Marie Spartali Stillman,Marie Spartali Stillman,Suzanne Valadon,Annie Swynnerton,Lilly Martin Spencer
+In Greek mythology the Cyclopes were the so called Olympians masons. They built the marvellous palace of the gods at the top of the highest mountain in Greece - Mount Olympus.,True,False,True,,
 Why did Phaethon take Apollos chariot and ride off across the sky?,"He was taunted about his origin by Epaphus, a son of Zeus.",He wanted to take the place of his father Helios.,His mother Clymene drove him to take his fathers chariot.,He wanted to impress the Greek goddess Aphrodite because he was in love with her.,"He was taunted about his origin by Epaphus, a son of Zeus."
 What was the name of the mythological statue in which Pygmalion fell in love and eventually the statue became a woman?,Galatea,Lachesis,Galatea,Echo,Leda
 "What was the name of the Lithuanian god of the sky, earth, sea and all living creatures who decided to punish mankind and sent to the Earth the Spirit of water and the Spirit of wind?",Praamzius,Praamzius,Jurate,Patrimpas,Perkunas
@@ -469,9 +562,12 @@ In Finnish myths the Sampo was a magic artifact made by the blacksmith IImarinen
 What state in the U.S. is commonly believed to have Spanish as an official language?,New Mexico,New Mexico,Oregon,Nevada,Hawaii
 In what country in Africa is Spanish the official language?,Equatorial Guinea,Libya,Angola,Nigeria,Equatorial Guinea
 What language is regarded as the biggest contributor to the Spanish language after English and Latin?,Arabic,Persian,Turkish,Arabic,Hungarian
+"Besides Espanol, Spanish language is also called Castellano.",True,True,False,,
 "This language, spoken by the Sephardic Jews, is a combination of Hebrew and Spanish.",Ladino,Galician,Ladino,Basque,Catalan
+Spanish is one of the six official languages of the U.N.,True,False,True,,
 What is the name of the institution responsible for regulating the Spanish language?,Royal Spanish Academy,Department of Spanish,Royal Spanish Academy,Castillian association,Ministry of Spanish
 What did the Royal Spanish Academy rule in 1994?,The consonants CH and LL would not be considered separate letters.,English words would not be accepted into the Spanish language.,The consonants CH and LL would not be considered separate letters.,Spanish should be the official language of Spain.,The term Castilian would not be used.
+The official languages of Haiti are Spanish and French.,False,False,True,,
 In how many countries is Spanish the official language?,21,21,15,32,12
 In the movie Rent which 4 of the 8 main characters have AIDS?,"Roger, Mimi, Collins, Angel","Roger, Maureen, Mark, Collins","Angel, Roger, Bennie, Maureen","Joanne, Mark, Bennie, Maureen","Roger, Mimi, Collins, Angel"
 What drug is Rent character Mimi addicted to?,Heroin,Marijuana,Meth,Heroin,Cocaine
@@ -519,6 +615,8 @@ What is the name of the dancer described in the following lyrics?,Mr. Bojangles,
 What is the name of the dwelling place of the Norse gods?,Asgard,Olympia,Atlantis,Asgard,Valhalla
 "In Norse mythology, what kind of animals are Odins two companions that kept him informed of various events?",ravens,eagles,wolves,ravens,bears
 What is Bifrost in North mythology?,the rainbow bridge that leads to Asgard,the rainbow bridge that leads to Asgard,the serpent that kills Thor at Ragnarok,Odins great hall for fallen warriors,the wolf that kills Odin at Ragnarok
+"The word Friday is derived from Frigg, the Norse goddess who was wife of Odin.",True,True,False,,
+The main difference between Norse gods and gods of other cultures is that Norse gods are not immortal.,True,True,False,,
 What does the Latin word spiro mean?,Breathe,"Ghost, soul",Set on fire,Alcohol,Breathe
 What is the translation of the Latin saying Finis vitae sed non amoris?,The end of life is not the end of love.,The end of life is not the end of love.,There is no life without love.,There is life even after there is no more love.,There is no love at the end of life.
 What does the Latin word bellum mean?,War,Chime,Stomach,War,Beauty
@@ -530,9 +628,11 @@ What does the Latin word copia mean?,Abundance,Abundance,Copper,Spear,Replicate
 What does the Latin word nemo mean?,Nobody,Nobody,Him,Man,Name
 What does the Latin phrase Dum spiro spero mean?,"While I breathe, I hope.",This is the spirit of hope.,Hope comes when you take a breath.,"While I breathe, I hope.",I hope my soul will live on.
 "According to the legends, how many dogs did Artemis take with her while hunting?",7,9,2,8,7
+The palm tree was sacred for Artemis because it is connected with her and her twin brother Apollos birth.,True,False,True,,
 According to legends why did Artemis transform the hunter Actaeon into a stag?,Because he spied her when she bathed and saw her naked.,Because he stole her bow.,Because he killed Artemis stag.,Because he refused to build her a temple.,Because he spied her when she bathed and saw her naked.
 The Temple of Artemis is one of Worlds Seven Wonders. Where is it located?,Ephesus,Ephesus,Turkey,Sparta,Athens
 What is the meaning of goddess Artemis title Elaphebolus?,Deer shooting,The virgin,Deer shooting,Queen of the beasts,The hunter
+Was Aeginaea the name given to Artemis by her worshippers in Sparta?,Yes,Yes,No,,
 Which one of these names was given to Artemis by her worshipers in Athens?,Agrotera,Apanchomene,Agrotera,Aetole,Aeginaea
 What did the archaic term strumpet refer to?,A prostitute,A prostitute,An alcoholic beverage,A breed of dog now extinct,A musical instrument
 What does the word sylvan mean as an adjective?,Of or pertaining to the woods,Civil in manner and speech,Sleek or glossy in appearance,That which has a silver color,Of or pertaining to the woods
@@ -543,6 +643,7 @@ What did the name Albion refer to?,Great Britain,the planet Venus,Great Britain,
 What did the term phlogiston originally refer to?,None of these,A herb used to alleviate fevers by the ancient Greeks,An instrument of torture and interrogation used by the ancient Greeks,A type of wheel used on Roman chariots,None of these
 What did the archaic adjective anile mean?,Of or like a senile old woman,Of or like a fox,None of these,Originating or from the Nile river,Of or like a senile old woman
 What is the meaning of the archaic word betwixt?,Between,Rejected,Between,Dumbfounded or bewildered,Bewitched
+The archaic term puissant meant weak or wimpy.,False,True,False,,
 What is the missing word in the popular saying: All is fair in love and ...?,War,Politics,Care,Hatred,War
 Finish the popular proverb: A good example is the best ....,Sermon,Advice,Teacher,Sermon,Favor
 What is the missing word in the popular proverb Dogs of the same street ... alike?,Bark,Smell,Bark,Bite,Eat
@@ -574,13 +675,18 @@ Who plays E.K. Hornbeck in the 1960 movie Inherit the Wind?,Gene Kelly,"Noah Bee
 Which actor portrays the defendant Benjamin T. Cates in the 1960 movie Inherit the Wind?,Dick York,"Noah Beery, Jr.",Dick York,Gene Kelly,Harry Morgan
 Who produced and directed the movie Inherit the Wind?,Stanley Kramer,Cosmo Kramer,Stanley Kramer,Billy Budd,Billy Rose
 Who did the color cinematography for the 1960 movie Inherit the Wind?,No one,Warren Hoffman,Jimmy Boyd Smith,John Tomlinson,No one
+"The real-life defendant, whose story was featured in the 1960 movie Inherit the Wind, spent his whole life in Dayton, Tennessee.",False,False,True,,
+Tony Randall appeared in the 1955 Broadway play Inherit the Wind.,True,False,True,,
 Who starred as the defense lawyer in the premiere of the 1955 Broadway play Inherit the Wind?,Paul Muni,John Gleason,Paul Muni,Frderick March,Henry Fonda
 "In the premiere of the 1955 Broadway play Inherit the Wind, who played the role of the prosecutor?",Ed Begley,Henry Fonda,Ed Begley,Jack Warden,John Cameron Swayze
 The play Inherit the Wind was written almost five years before its opening. Why did it take so long to get the play produced?,Fear of the McCarthy HUAC hearings,The Great Depression hurt Broadway producers.,The public did not want a play about abortions.,The public did not want a play about Sacco and Vanzetti.,Fear of the McCarthy HUAC hearings
 Which actor won a 1988 Emmy for his portrayal of the defense lawyer in one of the TV versions of the 1955 play Inherit the Wind?,"Jason Robards, Jr.",Kirk Douglas,"Jason Robards, Jr.",George C. Scott,Jack Lemmon
 The word goblin is probably derived from a Latin word which means what?,Rogue,Ugly,Devil,Evil,Rogue
+Goblins are considered to be a type of fairy folk.,True,True,False,,
 It is believed that the goblin legend began in what European country?,France,Ireland,Germany,France,England
 Which of these statements about goblins is NOT true according to legend?,Goblins love horse meat.,Goblins love to play pranks.,Goblins are almost an entirely male race.,Goblins steal women and children.,Goblins love horse meat.
+It is a very old tradition to portray goblins green.,False,True,False,,
+Goblin babies are known as changelings.,True,True,False,,
 The Green Goblin is the arch enemy of which Marvel Superhero?,Spider-man,Captain America,Iron-man,The Hulk,Spider-man
 What was Sigmund Freuds major at the University of Vienna?,Medicine,Law,Geography,Zoology,Medicine
 What phobia did Sigmund Freud develop in his forties?,Fear of death,Fear of spiders,Fear of death,Fear of nightmares,Fear of heights
@@ -594,10 +700,12 @@ Which of these therapies did Sigmund Freud start using to resolve psychological 
 "How did Sigmund Freud choose to die, with the assistance of his doctor and friend Max Schur?",By a lethal dose of morphine,By poisoning,By suffocation,By a lethal dose of morphine,By a gunshot
 What name was used to refer to Leonardos famous painting before it was known as Mona Lisa?,A Certain Florentine Lady,A Lady from Florence,Madam Florentine,Madam Lisa,A Certain Florentine Lady
 What was the Mona Lisa painting called when it was in the collection at the palace at Fontainebleau?,A courtesan in a gauze veil,Madam Lisa Gioconda,Wife of a wealthy Florentine,A courtesan in a gauze veil,The Mona Lisa
+The Mona Lisa is not painted on a canvas.,True,False,True,,
 Which of these is not among the theories about who is portrayed in the Mona Lisa painting?,The mistress of Leonardos close friend,The portrait is an idealization of all womanhood.,The portrait is an invention of Leonardos imagination,A young man in drag,The mistress of Leonardos close friend
 Which of these artists is known to have become fascinated with the Mona Lisa painting?,Raphael,Michelangelo,Berrettini,Luciani,Raphael
 Who gave the Mona Lisa painting its name?,Giorgio Vasari,Lisa Giocondo,King Francois I,Giorgio Vasari,Leonardo Da Vinci
 "Which King hated the Mona Lisa painting so much, that he had it removed from his palace?",King Louis XV,King Louis XIV,Napoleon,King Francois I,King Louis XV
+"When Mona Lisa was stolen in 1911, Picasso was among the suspects.",True,True,False,,
 What sentence was Vincenzo Perugia given for stealing the Mona Lisa painting in 1911?,7 months,1 year,7 years,10 years,7 months
 How long did it take Leonardo Da Vinci to finish the Mona Lisa painting?,4 years,1 year,6 months,3 years,4 years
 What does the German word Bibliothek mean when translated into English?,Library,Library,Bookworm,Its not a real word.,Bible
@@ -614,6 +722,7 @@ What does the Hebrew phrase ×××ª×¨×××ª (le-hei-tra-ot) mean in
 Who wrote Divina Proportione which explored the use of the golden ratio in the Renaissance architecture?,Luca Pacioli,Le Combusier,Luca Pacioli,Leonardo Da Vinci,Palladio
 "Who was the first architect since antiquity to use the classical orders Doric, Ionic and Corinthian in an appropriate manner?",Brunelleschi,Brunelleschi,Donato Bramante,Leon Battista Alberti,Gian Lorenzo Bernini
 "This Renaissance architect, famous as chief architect of the Venetian Republic, wrote the treatise Four Books on Architecture.",Andrea Palladio,Michelozzo Michelozzi,Leonardo Da Vinci,Giovanni Baptista Quadrio,Andrea Palladio
+Italian Mannerism is a term related to the High Renaissance.,False,False,True,,
 In which year was the term photography first used?,1839,1839,1876,1729,1903
 In 1945 this man was given the Pulitzer Prize in News Photography for his famous photo of the raising the American flag on the Japanese island Iwo Jima.,Joe Rosenthal,Joe Rosenthal,Frank Noel,Frank Filan,Milton Brooks
 When was the first aerial photograph taken?,1858,1994,1456,1858,1938
@@ -629,8 +738,11 @@ Which phrase refers to a costly victory that results in losses so high as to mak
 What term refers to amyotrophic lateral sclerosis?,Lou Gehrigs Disease,Lou Gehrigs Disease,Tourette syndrome,Parkinsons disease,Brocas disease
 "In the same year Jesse James was shot and killed, Edward Hopper was born.  What was the year?",1882,1882,1895,1906,1870
 "During the four years after he finished college, Edward Hopper made how many trips to Europe?",3,3,1,0,5
+"In Europe, Edward Hopper visited the Louvre Museum where he saw Degas painting The Cotton Exchange, New Orleans. He called it the most wonderful painting he had ever seen.",False,True,False,,
 What was Edward Hoppers occupation in his forties?,A commercial illustrator,A commercial illustrator,An art school professor,He ran his familys grocery store,A sailing instructor
 At what age did Edward Hopper have his first one-man show of paintings?,37,37,22,45,29
+"After Edward Hopper married painter Josephine Nivison, she became the only model for all of his female figures.",True,True,False,,
+"Edward Hopper once said, The only real influence Ive ever had was myself.",True,False,True,,
 "Where does Edward Hoppers most famous painting, âNighthawksâ, reside?",The Art Institute of Chicago,Museum of Modern Art in New York,The Whitney Museum of American Art,The Art Institute of Chicago,The Des Moines Art Center
 What family member does the Spanish noun âabuelaâ denote?,Grandmother,Sister,Grandmother,Niece,Daughter
 What is the Spanish word for mirror?,Espejo,Pelo,Espejo,Queso,Tenedor
@@ -643,6 +755,7 @@ What does the Spanish expression âMe he perdido el bolsoâ mean?,I lost
 Which day of the week does the Spanish word âmartesâ denote?,Tuesday,Tuesday,Wednesday,Monday,Friday
 What number does the Spanish word âcienâ denote?,A hundred,Zero,Forty,Sixty,A hundred
 Which Greek god guides the dead to the river Styx to pay their toll to Charon so that they can get into the underworld?,Hermes,Isis,Hades,Gaia,Hermes
+Is it true that according to Greek myths Arachne had great respect for Athena?,No,No,Yes,,
 How was Prometheus punished for stealing fire and bringing it to humans?,None of these,He was killed.,He was hung up on a mountain where every day a crow came and ate his liver.,He had to hold the sky up.,None of these
 Who is the mother of Dionysus?,Semele,Hera,Maia,none of these,Semele
 The Afrikaans language is one of the official languages in this African country.,South Africa,Botswana,South Africa,Lesotho,Namibia
@@ -691,9 +804,13 @@ The musical Miss Saigon is based on what classical opera?,Madame Butterfly,The M
 "Where do Christine and Raoul sing their love duet, All I Ask of You in The Phantom of the Opera?",On the roof of the Paris Opera House,On stage during a performance of Il Muto,In box 5 during a performance of Il Muto,On the roof of the Paris Opera House,On the grand staircase of the Paris Opera House
 In Wicked Elfaba puts a spell on the monkeys enabling them to fly. Why did she cast the spell which earned her the loyalty of the monkeys?,To save them from the clutches of the Wizard,To save them from the approaching tornado,To save them from the lions,To save them from the clutches of the Wizard,To save them from Glenda who had them caged as pets
 Who was the mother of Zeus?,Rhea,Maia,Hera,Gaia,Rhea
+"In Greek mythology, is Semele the mother of Hermes?",No,Yes,No,,
+"Is Maia the mother of Dionysus, the Greek god of wine?",No,Yes,No,,
 Who is the mother of the nine muses in Greek mythology?,Mnemosyne,Mnemosyne,Urania,Melpomene,Clio
 Who is the mother of the Greek god Hephaestus?,Hera,Artimas,Athena,Hera,Aphrodite
+"Does the Greek goddess of love, Aphrodite, have a mother?",No,No,Yes,,
 "Who is the mother of Athena, the goddess of wisdom?",Metis,Metis,Thaila,Echo,none of these
+The term lesbian is derived from the name of a Greek island.,True,False,True,,
 The first legends about werewolves originated on this continent.,Europe,Asia,Africa,Europe,South America
 "According to legends, a human can initiate their transformation into a werewolf if they drink rainwater from this source.",Wolfs footprint,All of these,Dogs water bowl,Rainwater collected on a rooftop,Wolfs footprint
 What metal are werewolves afraid of according to modern legends and stories?,Silver,Gold,Copper,Iron,Silver
@@ -725,7 +842,10 @@ Which of these works was not painted by Claude Monet?,The Luncheon on the Grass,
 "This artist, who hated the term impressionist and insisted on being called realist, was famous for painting ballet dancers.",Edgar Degas,Edgar Degas,Armand Guillaumin,Paul CÃ©zanne,FrÃ©dÃ©ric Bazille
 "What American impressionist painted the works Tea, The Boating Party, and Summertime?",Mary Cassatt,Frank W. Benson,Alfred Sisley,Mary Cassatt,Childe Hassam
 Which of the following is not one of the siblings of Helen of Troy?,Asclepius,Asclepius,Clytemnestra,Castor,Polydeuces
+The name of Helen of Troy is derived from the Greek word meaning sun.,False,True,False,,
 Which one of these is the name of Helen of Troys daughter from Menelaus?,Hermione,Hermione,Iphigenia,Clytemnestra,Aethra
+Helen of Troy was called The Face Who Launched a Thousand Ships as she inherited a huge fleet from her father.,False,False,True,,
+Was Helen of Troy immortal?,Yes,Yes,No,,
 Some legends state that Helen of Troyâs mother was Nemesis and she threw the egg from which Helen was born. Who did Helen share this egg with?,Dioscuri,Dioscuri,Pleisthenes,Asclepius,Castor
 "What does the most popular hardcore dancing move, two step look like?",Placing one foot in front of the other and jumping on it with your arm thrust opposite to the leg that is moving in the front,Placing one foot in front of the other and jumping on it with your arm thrust opposite to the leg that is moving in the front,"Jumping around and swinging your fists, stomping back and froth across the pit",Spinning karate kicks in a sequence,"Punching the floor and stomping in place, throwing your fists back, trying to strike anyone behind you"
 The most common hardcore move two step was taken from which dance?,Skanking,Pogo,Mosh,Headbanging,Skanking
@@ -789,12 +909,17 @@ In what country did the Cha-cha-cha dance originate?,Cuba,Colombia,Brazil,Cuba,D
 "Cali, Rueda and Casino are different styles of this popular Latin dance.",Salsa,Rumba,Salsa,Bachata,Samba
 What is the Tagalog word for tree?,puno,kahoy,bahay,bola,puno
 What does the Tagalog word pera mean in English?,money,candle,book,pen,money
+Is it true that the Tagalog word salamin means pencil in English?,False,False,True,,
 What does the Tagalog phrase Saan ka nakatira? mean in English?,Where do you live?,What is your name?,How do you know?,Where do you live?,When is your birthday?
 "Beautiful is to the Tagalog word maganda, as fat is to this word.",mataba,pangit,makulay,mainit,mataba
+The Tagalog word tama means correct in English.,True,False,True,,
 One is to the Tagalog word isa as two is to this Tagalog word.,dalawa,lima,tatlo,apat,dalawa
+Does the Tagalog word anim mean six in English?,Yes,No,Yes,,
 What Tagalog word means Monday?,Lunes,Miyerkules,Martes,Huwebes,Lunes
 What does the Tagalog word Sabado mean in English?,Saturday,Friday,Saturday,Monday,Thursday
 What is the lyrical dance a mix of?,Jazz and Ballet,Tap and Jazz,Ballet and tap,Jazz and Ballet,Jazz tap and ballet
+"In dancing, the word foutette means to straighten.",False,True,False,,
+A grand jete is a type of leap in dancing.,Yes,Yes,No,,
 "In dancing, what is Triple Threat?","Singing, Dancing and Acting","Hip Hop, Jazz and Point","Tap, Jazz and Ballet","Singing, Dancing and Acting","Point, Ballet and Jazz"
 Of what origin was painter and etcher Rembrandt?,Dutch,Italian,French,Spanish,Dutch
 Rembrandt initially achieved success as a painter of what type of paintings?,Portraits,Portraits,Murals,Marine paintings,Icons
@@ -818,19 +943,25 @@ What is the missing word from the following Chinese proverb: To hit a ... with a
 "What is the missing phrase from the Chinese proverb, A single day of sub-zero temperature is not enough to create ...?",Three feet of ice,Ice cream,Three feet of ice,An ice palace,Winter
 What does the word wan mean?,pale,enigmatic,happy or cheerful,memorable,pale
 What does the word kirk refer to?,A church,Type of redwood tree,A species of conifer tree,Type of horsedrawn carriage used in Victorian times,A church
+What does the word kirk refer to?,A church,,,,
 The following sentence is written in what language:,Swedish,Dutch,Danish,Swedish,German
 In what language is this line: ,Spanish,Swedish,French,Spanish,Hebrew
 Name the language in which this sentence is written: ,Lakota,Lakota,Japanese,Icelandic,Hawaiian
 In what language is the sentence:,Finnish,Hungarian,Finnish,German,Bulgarian
+Is this the correct usage of the word inferring? ,No,No,Yes,,
+Is this the correct usage of the word continually? ,No,No,Yes,,
 "In the following sentence, which word is incorrect?  ",None of the words is incorrect; the sentence is correct as is.,principal,principle,unprincipled,None of the words is incorrect; the sentence is correct as is.
 "The main function of this nucleic acid, consisting of a string of covalently-bound nucleotides, is to copy genetic information.",RNA,REO,RSI,RAROC,RNA
 In Egyptian mythology this is known as the soul/personality of a person. It is sometimes depicted as a human-headed bird.,Ba,Akh,Sheut,Thoth,Ba
 Camulatz is the bird that ate the heads of the first men according to this mythology.,Maya,Chippewa,Maya,Persian,Chinese
+Chamrosh is said to rule and protect all avifauna on Earth.,True,True,False,,
 The griffin is a legendary creature with the body of this animal and the head and wings of an eagle.,Lion,Lion,Snake,Dog,Horse
 "In Greek mythology, the Harpies were beautiful winged women best known for doing this to Phineas (a King of Thrace, son of Agenor who had the gift of prophecy).",Constantly stealing food from him,Constantly lying to him,Constantly seducing him,Constantly stealing gold from him,Constantly stealing food from him
 Hugin and Munin are Odins two companion birds in Norse mythology. They are these bird species.,Ravens,Hawks,Doves,Eagles,Ravens
+Phoenixes can be only male.,True,True,False,,
 "The second time Noah sent the dove from the Ark, the bird returned with this.",Olive leaf,Grass leaf,Palm leaf,Olive leaf,Apple leaf
 Garuda is one of the main forms of God in Hinduism. He is described as having all of these except one.,Ravens beak,Ravens beak,Red wings,Golden body,White face
+"Raven, the spirit of the raven bird, is a god in the mythology of various native peoples of northwest North America. It is considered to be the god of loyalty and truth.",False,True,False,,
 Fill in the blank with the correct word:,its,its,...,its,...
 To which language group does English belong?,Germanic,Italic,Germanic,Slavic,Celtic
 Which Central European language is not a Slavic one?,Hungarian,Czech,Polish,Hungarian,Slovak
@@ -844,10 +975,14 @@ In which part of Germany will you most likely find people speaking Wendish (also
 What language is spoken by the most people in the European Union as their native language?,German,English,French,German,Spanish
 In which country is Flemish mostly spoken?,Belgium,France,Luxembourg,Holland,Belgium
 The modern unicorn is depicted as a horse with a single horn. Traditionally unicorns were depicted much differently. Which of these features was not depicted as part of the traditional unicorn?,Snake-like tongue,Snake-like tongue,Bill goats beard,Lions tail,Cloven hooves
+The spiralled horn of a unicorn was called an Alicorn.,True,False,True,,
+Was the unicorn part of Greek mythology?,No,No,Yes,,
 In ancient times items made of unicorn parts were very valuable for what reason?,All of these,Unicorn horns and parts were thought to be medicinal.,They were very rare,All of these,The parts were thought to be aphrodisiacs.
 Which of these countries has a unicorn on its coat of arms?,Scotland,Italy,Spain,France,Scotland
+Portugal has a unicorn on its coat of arms and royal seals.,False,True,False,,
 The coat of arms of the Society of Apothecaries in London is adorned with how many unicorns?,2,2,0,4,1
 A supposed unicorn skeleton was found in a cave in Europe. The skeleton was found to be a hoax but the cave retained the name Unicorn Cave. In which European country is Unicorn Cave located?,Germany,Switzerland,Britain,France,Germany
+Many explorers such as Marco Polo may have confused rhinoceros for unicorns.,True,False,True,,
 It was the third of June when Mama announced that Billy Joe McCallister jumped off the,The song never reveals what was thrown off the bridge,Something small and wrapped in a blanket,Something that flashed in the sun,The song never reveals what was thrown off the bridge,Gun
 In 1814 we took a little trip,The Ballad of New Orleans,The Ballad of New Orleans,The Ballad of Mighty Mississip,The Ballad of Colonel Jackson,The Ballad of Davey Crockett
 Which term is preferred by more and more female performers of stage and screen?,Actor,Actor,Actress,Diva,Thespian
@@ -872,12 +1007,18 @@ The Chinese term Kowtow refers to an act of deep respect. How is it performed?,B
 "In south Germany and Austria, GrÃ¼Ã Gott is commonly used as a greeting. What does it literally mean?",God bless you,Good day,How are you,Peace to you,God bless you
 Sik Jo Fan Mei means have you eaten yet?. In which country it is used as a greeting?,China,China,Vietnam,Japan,Korea
 In which culture is pressing noses used as a greeting?,Maori (New Zealand),Eskimo (Finland),"Inca (Peru,Bolivia)",Zulu (South Africa),Maori (New Zealand)
+Two words that can be interchanged in a context are said to be antonyms.,False,True,False,,
 What word means the same as meager?,paltry,same,alot,multiply,paltry
+Constant means changing.,False,True,False,,
+Sick is the same as ill.,True,False,True,,
 Which of these words is a synonym of research?,investigate,populate,regulate,try,investigate
 There many words that have the same meaning as low. Which of the following is NOT one of them?,escape,escape,soft,miserable,humble
 "The words barbed, biting, nipping or pungent could mean what?",sarcastic,morbid,moronic,casual,sarcastic
 Whats the name of the singer who was involved with bicyclist Lance Armstrong?,Sheryl Crow,Sheryl Crow,Sheila Winestein,Sheryl Underwood,Laura Sheen
 "This prolific author was also a screenwriter, penning the likes of I Dream of Jeannie, Hart to Hart and The Patty Duke Show.",Sidney Sheldon,Paul Sheldon,Shelby Davis,Arthur Sherwood,Sidney Sheldon
+"The Jeffersons TV series, starring Sherman Hemsley, was a spinoff of All In The Family.",True,True,False,,
+The group S.H.E plays country music in China.,False,True,False,,
+In chemistry SHE stands for Standard Helium Electrode.,False,True,False,,
 This actress is best known for playing Olive Oyl in 1979 and Wendy Torrance in 1980.,Shelley Duvall,Laura Sheath,Norma Sheer,Shelly Winters,Shelley Duvall
 This influential English political philosopher believed in rule by absolute sovereign and the need for a social contract. His masterwork is Leviathan.,Thomas Hobbes,Thomas Hobbes,John Locke,Rene Descarte,Bertrand Russell
 This early scholastic philosopher was a Franciscan friar best known for his principle that opposes multiplying unnecessary entities in making propositions or drawing conclusions.,William of Ockham,William of Ockham,St. Jerome,John Scottus,St. Augustine
@@ -897,7 +1038,9 @@ Which of these movie musical numbers was NOT nominated for a Best Original Song 
 "According to a popular song from the 2003 puppet musical Avenue Q, what is the Internet for?",Porn,Porn,Quizzes,MySpace,Scholarly Research
 "One of the best-known tales of Arthurian times is The Sword in the Stone, written by T. H. White.  In the book, the soon-to-be-king, Arthur, is lives with which of these people?",Sir Ector,King Pellinore,Merlyn,Sir Grummore Grummursum,Sir Ector
 "In the popular childrens animated musical, Quest For Camelot, what well-known female singer provided the singing voice for Lady Juliana?",CÃ¨line Dion,Brittney Spears,Faith Hill,Amy Grant,CÃ¨line Dion
+"In 1456, Sir Thomas Mallory completed what is one of the most well-known accounts of the life of King Arthur, called Le Morte DArthur.",False,True,False,,
 "During the reign of King Henry II, what is thought to be the grave of King Arthur, was discovered where in England?",Glastonbury,Salisbury,Glastonbury,"London (or, as it was once called, Londres)",Avalon
+"Is it true that in Greek mythology, Medusa, who was a beautiful girl with beautiful hair, became a Gorgon with serpents in her hair because she was arrogant and dared to compare her beauty to that of Athena?",No,Yes,No,,
 What does Gigantoleteira mean?,The giants destroyer,The giants destroyer,The worshipper of giants,The giant hero,The friend of giants
 What does the name Ergane mean?,Worker,Hero,Maiden,Strong,Worker
 What kind of musical instrument did Athena invent?,Flute,Harp,Flute,Lyre,Guitar
@@ -906,14 +1049,18 @@ Ancient Greeks believed that this Titan created man.,Prometheus,Ouranos,Kronos,P
 "This Titan overthrew his father, Ouranos and ruled over the Earth before the gods.",Cronus,Oceanus,None of these,Cronus,Zeus
 These mythological figures were gigantic beings with one hundred hands.,Hecatoncheires,Cyclops,Hecatoncheires,Gorgons,None of these
 Which Greek god is known as the Earth-shaker?,Poseidon,Neptune,Hephaestus,Poseidon,Hades
+Zeus is the Greek god of the sky and the chief of the gods.,True,True,False,,
 Name the mythological giant three-headed dog that guarded the gate to the underworld.,Cerberus,Cerberus,Chimaera,Echidna,Orthrus
 What was the home of the gods in Greek mythology?,Mt. Olympus,the Elysian Fields,Tartarus,Mt. Olympus,None of these
 "According to Greek mythology, Pegasus and his brother, Chrysaor were born when Perseus decapitated this monster.",Medusa,Medusa,Akimbo,None of these,Minotaur
+"According to Greek mythology, Odysseus and his men landed on the island of the Lotus Eaters following the Trojan War.",True,False,True,,
 "Polyphemus, the one-eyed son of Poseidon, asked his father not to allow this mythological hero to return home.",Odysseus,Eurymachus,Telemachus,Maron,Odysseus
+"Baroque painters Caravaggio and Rembrandt used chiaroscuro, an art technique, related to the distribution of light and dark in a painting.",True,False,True,,
 "Diego Velazquez, a Spanish Baroque Era painter, became most famous with what kind of paintings?",Portraits,Paintings on war subject,Still lives,Portraits,Paintings on biblical subject
 "Boy Blowing a Horn, a sculpture created by Italian Baroque Era sculptor Pietro Tacca, is displayed where?","in the Hermitage Museum, Saint Petersburg, Russia","in the Courtauld Institute of Art, London, UK","in the Hermitage Museum, Saint Petersburg, Russia","in the National Gallery of Art, Washington D. C.","in the Art Gallery of the University of Rochester, New York"
 "Works of Pietro Bernini, a Baroque Era sculptor, are displayed in which American museum?","The Metropolian Museum of Art, New York City","Asheville Art Museum, North Carolina","Boston University Art Gallery, Massachusetts","The Metropolian Museum of Art, New York City","Huntington Museum of Art, West Virginia"
 "Ottavio Leoni, an Italian Baroque Era printmaker and painter, painted which of the following drawings?",Urban III,Ritratto di Paolo Morigia,Urban III,Judith with the Head of Holofernes,Grotesque Head
+"Rubens, one of the most famous Flemish Baroque Era painters, was a student of Cornelis de Vos.",False,True,False,,
 "Where did Diego Velazquez, a Spanish Baroque Era painter, spend his middle period?",Madrid,Madrid,Genoa,Barcelona,Florence
 In India dacoit  is a synonym for what word?,bandit,bandit,miner,wagon,mongoose
 Dear Elle:hes a lucky guy--,Omigod You Guys,So Much Better,Bend  Snap,Ireland,Omigod You Guys
@@ -933,6 +1080,7 @@ During which century did Italian painter Michelangelo live and work?,15th-16th c
 "According to painter and sculpture Michelangelo, art originated from which of the following?",Inner inspiration,Madness,Pain,Inner inspiration,Divine gift
 What was Michelangelos view of nature and its place in art?,He saw it as an enemy.,He saw it as an enemy.,He believed the human being was a masterpiece of Mother Nature.,He saw nature as a miracle.,None of these
 Which of these statements is true about Michelangelo?,He lived in poverty.,He lived an extravagant life.,He enjoyed eating and drinking most of all.,He lived in poverty.,None of these
+Painter and sculptor Michelangelo is believed to have had homosexual inclinations.,True,False,True,,
 Which of these phrases is a synonym of limbo?,Middle ground,Social ground,Core ground,Muddy ground,Middle ground
 Which of these phrases refers to cemetery?,Burying ground,Isoglosses ground,Exclusive ground,Social ground,Burying ground
 What phrase is a synonym of jungle?,Uncultivated ground,Kindred ground,Solid ground,Uncultivated ground,Wet ground
