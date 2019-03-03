@@ -9,7 +9,10 @@ print(filenames)
 print(len(filenames))
 
 
+
 for filename in filenames:
+  question = ""
+  answer = ""
   listOfQuestions = []
   file = open("OpenTriviaQA/categories/"+filename,"r",encoding='latin-1')
 
@@ -27,12 +30,13 @@ for filename in filenames:
     elif line[0]=="D":
       D = line[2:-1]
     elif line[:2]=="\n":
-      mcq = {"question":question,"answer":answer,"A":A,"B":B,"C":C,"D":D}
-      A = ""
-      B = ""
-      C = ""
-      D = ""
-      listOfQuestions.append(mcq)
+      if(question!=""):
+        mcq = {"question":question,"answer":answer,"A":A,"B":B,"C":C,"D":D}
+        A = ""
+        B = ""
+        C = ""
+        D = ""
+        listOfQuestions.append(mcq)
   print(filename+" "+str(len(listOfQuestions)))
   
   with open(filename+".csv","w") as csvfile:
@@ -42,3 +46,4 @@ for filename in filenames:
     for every in listOfQuestions:
       writer.writerow(every)
     
+  
